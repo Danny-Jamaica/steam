@@ -1,0 +1,11 @@
+[
+    {
+        "STEAM ID":10,
+        "NAME":"Counter-Strike",
+        "REQUIRED AGE":0,
+        "PRICE":9.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":"2026-09-24"
+    }
+]

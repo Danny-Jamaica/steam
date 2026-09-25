@@ -1,0 +1,3125 @@
+[
+    {
+        "STEAM ID":419990,
+        "NAME":"Ganbare! Super Strikers",
+        "REQUIRED AGE":0,
+        "PRICE":9.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":"2026-09-24"
+    },
+    {
+        "STEAM ID":419810,
+        "NAME":"House of Hell (Standalone)",
+        "REQUIRED AGE":0,
+        "PRICE":4.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":"2026-09-24"
+    },
+    {
+        "STEAM ID":419710,
+        "NAME":"Rogue Singularity",
+        "REQUIRED AGE":0,
+        "PRICE":14.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":"2026-09-24"
+    },
+    {
+        "STEAM ID":419590,
+        "NAME":"Tales from the Void",
+        "REQUIRED AGE":0,
+        "PRICE":0,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":"2026-09-24"
+    },
+    {
+        "STEAM ID":419520,
+        "NAME":"Lifeless",
+        "REQUIRED AGE":0,
+        "PRICE":0,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":"2026-09-24"
+    },
+    {
+        "STEAM ID":419500,
+        "NAME":"Red Game Without A Great Name",
+        "REQUIRED AGE":0,
+        "PRICE":0,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":"2026-09-24"
+    },
+    {
+        "STEAM ID":419460,
+        "NAME":"That Dragon, Cancer",
+        "REQUIRED AGE":0,
+        "PRICE":9.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":"2026-09-24"
+    },
+    {
+        "STEAM ID":419450,
+        "NAME":"Resume Maker® for Windows",
+        "REQUIRED AGE":0,
+        "PRICE":19.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":"2026-09-24"
+    },
+    {
+        "STEAM ID":419080,
+        "NAME":"Bridge Constructor Stunts",
+        "REQUIRED AGE":0,
+        "PRICE":9.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":"2026-09-24"
+    },
+    {
+        "STEAM ID":419000,
+        "NAME":"Relic Alone",
+        "REQUIRED AGE":0,
+        "PRICE":0,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":"2026-09-24"
+    },
+    {
+        "STEAM ID":422970,
+        "NAME":"Devil Daggers",
+        "REQUIRED AGE":0,
+        "PRICE":9.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790208000000
+    },
+    {
+        "STEAM ID":422940,
+        "NAME":"Divergence: Online",
+        "REQUIRED AGE":0,
+        "PRICE":0,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790208000000
+    },
+    {
+        "STEAM ID":422920,
+        "NAME":"Creeper World 2: Anniversary Edition",
+        "REQUIRED AGE":0,
+        "PRICE":4.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790208000000
+    },
+    {
+        "STEAM ID":422910,
+        "NAME":"Creeper World: Anniversary Edition",
+        "REQUIRED AGE":0,
+        "PRICE":4.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790208000000
+    },
+    {
+        "STEAM ID":422890,
+        "NAME":"22 Racing Series | RTS-Racing",
+        "REQUIRED AGE":0,
+        "PRICE":0,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790208000000
+    },
+    {
+        "STEAM ID":422860,
+        "NAME":"Holodance",
+        "REQUIRED AGE":0,
+        "PRICE":19.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790208000000
+    },
+    {
+        "STEAM ID":422760,
+        "NAME":"Ocean Rift",
+        "REQUIRED AGE":0,
+        "PRICE":9.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790208000000
+    },
+    {
+        "STEAM ID":422650,
+        "NAME":"Megamagic: Wizards of the Neon Age",
+        "REQUIRED AGE":0,
+        "PRICE":9.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790208000000
+    },
+    {
+        "STEAM ID":422640,
+        "NAME":"VR Karts SteamVR",
+        "REQUIRED AGE":0,
+        "PRICE":14.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790208000000
+    },
+    {
+        "STEAM ID":422630,
+        "NAME":"Metaverse Construction Kit",
+        "REQUIRED AGE":0,
+        "PRICE":"Free To Play",
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790208000000
+    },
+    {
+        "STEAM ID":422590,
+        "NAME":"Wacky Wheels HD",
+        "REQUIRED AGE":0,
+        "PRICE":0,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790208000000
+    },
+    {
+        "STEAM ID":422500,
+        "NAME":"Emmerholt: Prologue",
+        "REQUIRED AGE":0,
+        "PRICE":"Free To Play",
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790208000000
+    },
+    {
+        "STEAM ID":422420,
+        "NAME":"Godus Wars",
+        "REQUIRED AGE":0,
+        "PRICE":0,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790208000000
+    },
+    {
+        "STEAM ID":422300,
+        "NAME":"Element",
+        "REQUIRED AGE":0,
+        "PRICE":0,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790208000000
+    },
+    {
+        "STEAM ID":422270,
+        "NAME":"City Play",
+        "REQUIRED AGE":0,
+        "PRICE":0,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790208000000
+    },
+    {
+        "STEAM ID":422210,
+        "NAME":"Rise of Keepers",
+        "REQUIRED AGE":0,
+        "PRICE":12.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790208000000
+    },
+    {
+        "STEAM ID":422140,
+        "NAME":"Wrestling Spirit 3",
+        "REQUIRED AGE":0,
+        "PRICE":19.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790208000000
+    },
+    {
+        "STEAM ID":422130,
+        "NAME":"Comic Book Hero: The Greatest Cape",
+        "REQUIRED AGE":0,
+        "PRICE":19.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790208000000
+    },
+    {
+        "STEAM ID":422020,
+        "NAME":"Dark Days",
+        "REQUIRED AGE":0,
+        "PRICE":2.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790208000000
+    },
+    {
+        "STEAM ID":422010,
+        "NAME":"Eczema Angel Orifice",
+        "REQUIRED AGE":0,
+        "PRICE":0,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790208000000
+    },
+    {
+        "STEAM ID":469990,
+        "NAME":"NEKOPALIVE",
+        "REQUIRED AGE":0,
+        "PRICE":"",
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":469980,
+        "NAME":"Legend of Miro",
+        "REQUIRED AGE":0,
+        "PRICE":39.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":469930,
+        "NAME":"Pandum online",
+        "REQUIRED AGE":0,
+        "PRICE":0,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":469920,
+        "NAME":"hackmud",
+        "REQUIRED AGE":0,
+        "PRICE":18.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":469900,
+        "NAME":"Paradox Paradigm",
+        "REQUIRED AGE":0,
+        "PRICE":0.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":469890,
+        "NAME":"Space Codex",
+        "REQUIRED AGE":0,
+        "PRICE":0.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":469830,
+        "NAME":"Fable Fortune",
+        "REQUIRED AGE":0,
+        "PRICE":0,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":469820,
+        "NAME":"Genital Jousting",
+        "REQUIRED AGE":0,
+        "PRICE":6.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":469800,
+        "NAME":"Evolution Board Game",
+        "REQUIRED AGE":0,
+        "PRICE":14.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":469790,
+        "NAME":"Linelight",
+        "REQUIRED AGE":0,
+        "PRICE":9.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":469730,
+        "NAME":"Super Mega Neo Pug",
+        "REQUIRED AGE":0,
+        "PRICE":0.99,
+        "HAS DISCOUNT":true,
+        "DISCOUNT":"SPECIAL PROMOTION! Offer ends 1 October",
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":469720,
+        "NAME":"Monsters' Den: Godfall",
+        "REQUIRED AGE":0,
+        "PRICE":14.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":469710,
+        "NAME":"Shattered Throne",
+        "REQUIRED AGE":0,
+        "PRICE":4.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":469650,
+        "NAME":"Disney Movies VR",
+        "REQUIRED AGE":0,
+        "PRICE":0,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":469610,
+        "NAME":"Rick and Morty: Virtual Rick-ality",
+        "REQUIRED AGE":0,
+        "PRICE":29.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":469600,
+        "NAME":"Legion TD 2 - Multiplayer Tower Defense",
+        "REQUIRED AGE":0,
+        "PRICE":0,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":469550,
+        "NAME":"Bambino Rally 3",
+        "REQUIRED AGE":0,
+        "PRICE":1.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":426000,
+        "NAME":"HunieCam Studio",
+        "REQUIRED AGE":0,
+        "PRICE":6.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":425990,
+        "NAME":"Space Junk Patrol",
+        "REQUIRED AGE":0,
+        "PRICE":5.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":425900,
+        "NAME":"Adventure Lamp",
+        "REQUIRED AGE":0,
+        "PRICE":9.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":425870,
+        "NAME":"Gyrodisc Super League",
+        "REQUIRED AGE":0,
+        "PRICE":12.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":425860,
+        "NAME":"Vector Assault",
+        "REQUIRED AGE":0,
+        "PRICE":4.49,
+        "HAS DISCOUNT":true,
+        "DISCOUNT":"WEEK LONG DEAL! Offer ends 28 September",
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":425820,
+        "NAME":"Dragonpath",
+        "REQUIRED AGE":0,
+        "PRICE":7.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":425770,
+        "NAME":"Answer The Question",
+        "REQUIRED AGE":0,
+        "PRICE":0.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":425760,
+        "NAME":"EGO Protocol",
+        "REQUIRED AGE":0,
+        "PRICE":1.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":425720,
+        "NAME":"Cloudlands : VR Minigolf",
+        "REQUIRED AGE":0,
+        "PRICE":0,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":425670,
+        "NAME":"Seraph",
+        "REQUIRED AGE":0,
+        "PRICE":0,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":425650,
+        "NAME":"Halloween Forever",
+        "REQUIRED AGE":0,
+        "PRICE":9.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":425600,
+        "NAME":"The Order of the Thorne - The King's Challenge",
+        "REQUIRED AGE":0,
+        "PRICE":0,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":425580,
+        "NAME":"The Room Two",
+        "REQUIRED AGE":0,
+        "PRICE":4.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":425560,
+        "NAME":"CyberLink Power2Go 10 Platinum",
+        "REQUIRED AGE":0,
+        "PRICE":0,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":425460,
+        "NAME":"Tokyo Twilight Ghost Hunters Daybreak: Special Gigs",
+        "REQUIRED AGE":0,
+        "PRICE":9.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":425450,
+        "NAME":"GoatPunks",
+        "REQUIRED AGE":0,
+        "PRICE":9.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":425410,
+        "NAME":"Road to Ballhalla",
+        "REQUIRED AGE":0,
+        "PRICE":14.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":425400,
+        "NAME":"Block Rocking Beats",
+        "REQUIRED AGE":0,
+        "PRICE":9.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":425340,
+        "NAME":"Space Moth DX",
+        "REQUIRED AGE":0,
+        "PRICE":4.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":425310,
+        "NAME":"Ghostbusters™",
+        "REQUIRED AGE":0,
+        "PRICE":0,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":425300,
+        "NAME":"Super Button Soccer",
+        "REQUIRED AGE":0,
+        "PRICE":6.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":425260,
+        "NAME":"Soul Harvest",
+        "REQUIRED AGE":0,
+        "PRICE":"Free To Play",
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":425240,
+        "NAME":"Pressure Overdrive",
+        "REQUIRED AGE":0,
+        "PRICE":12.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":425230,
+        "NAME":"Sword 'N' Board",
+        "REQUIRED AGE":0,
+        "PRICE":4.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":425220,
+        "NAME":"One Piece Burning Blood",
+        "REQUIRED AGE":0,
+        "PRICE":8.99,
+        "HAS DISCOUNT":true,
+        "DISCOUNT":"SPECIAL PROMOTION! Offer ends 1 October",
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":425210,
+        "NAME":"Shadwen",
+        "REQUIRED AGE":0,
+        "PRICE":16.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":425160,
+        "NAME":"Recursion Deluxe",
+        "REQUIRED AGE":0,
+        "PRICE":4.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":425150,
+        "NAME":"Assassins vs Pirates",
+        "REQUIRED AGE":0,
+        "PRICE":7.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":425070,
+        "NAME":"Asteroids Minesweeper",
+        "REQUIRED AGE":0,
+        "PRICE":1.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":425040,
+        "NAME":"ComixPlay #1: The Endless Incident",
+        "REQUIRED AGE":0,
+        "PRICE":0,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":425010,
+        "NAME":"ScudBuster",
+        "REQUIRED AGE":0,
+        "PRICE":4.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":333990,
+        "NAME":"Conclave",
+        "REQUIRED AGE":0,
+        "PRICE":9.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":333980,
+        "NAME":"AKIBA'S TRIP: Undead ＆ Undressed",
+        "REQUIRED AGE":0,
+        "PRICE":19.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":333970,
+        "NAME":"A Druid's Duel",
+        "REQUIRED AGE":0,
+        "PRICE":7.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":333950,
+        "NAME":"Medieval Engineers",
+        "REQUIRED AGE":0,
+        "PRICE":9.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":333930,
+        "NAME":"Dirty Bomb®",
+        "REQUIRED AGE":0,
+        "PRICE":"Free To Play",
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":333880,
+        "NAME":"Braveland Wizard",
+        "REQUIRED AGE":0,
+        "PRICE":14.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":333870,
+        "NAME":"Feel-A-Maze",
+        "REQUIRED AGE":0,
+        "PRICE":4.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":333760,
+        "NAME":"Vintage Year",
+        "REQUIRED AGE":0,
+        "PRICE":3.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":333730,
+        "NAME":"Dark Gates",
+        "REQUIRED AGE":0,
+        "PRICE":3.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":333690,
+        "NAME":"Epanalepsis",
+        "REQUIRED AGE":0,
+        "PRICE":3.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":333660,
+        "NAME":"Towers of Altrac - Epic Defense Battles",
+        "REQUIRED AGE":0,
+        "PRICE":0,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":333650,
+        "NAME":"Pahelika: Revelations",
+        "REQUIRED AGE":0,
+        "PRICE":13.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":333640,
+        "NAME":"Caves of Qud",
+        "REQUIRED AGE":0,
+        "PRICE":29.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":333600,
+        "NAME":"NEKOPARA Vol. 1",
+        "REQUIRED AGE":0,
+        "PRICE":9.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":333580,
+        "NAME":"Slow Down, Bull",
+        "REQUIRED AGE":0,
+        "PRICE":1.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":333540,
+        "NAME":"Neocolonialism",
+        "REQUIRED AGE":0,
+        "PRICE":2.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":333510,
+        "NAME":"Isbarah",
+        "REQUIRED AGE":0,
+        "PRICE":13.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":333490,
+        "NAME":"Replay - VHS is not dead",
+        "REQUIRED AGE":0,
+        "PRICE":0,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":333430,
+        "NAME":"Sinking Island",
+        "REQUIRED AGE":0,
+        "PRICE":7.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":333420,
+        "NAME":"Cossacks 3",
+        "REQUIRED AGE":0,
+        "PRICE":19.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":333390,
+        "NAME":"Tales of Aravorn: Seasons Of The Wolf",
+        "REQUIRED AGE":0,
+        "PRICE":6.24,
+        "HAS DISCOUNT":true,
+        "DISCOUNT":"WEEK LONG DEAL! Offer ends 28 September",
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":333380,
+        "NAME":"SilverQuest: Gaiden",
+        "REQUIRED AGE":0,
+        "PRICE":0,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":333350,
+        "NAME":"Cults and Daggers",
+        "REQUIRED AGE":0,
+        "PRICE":29.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":333340,
+        "NAME":"Star Rangers™ XE",
+        "REQUIRED AGE":0,
+        "PRICE":11.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":333330,
+        "NAME":"Song of the Myrne: What Lies Beneath",
+        "REQUIRED AGE":0,
+        "PRICE":4.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":333300,
+        "NAME":"ADOM (Ancient Domains Of Mystery)",
+        "REQUIRED AGE":0,
+        "PRICE":14.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":333290,
+        "NAME":"Mos Speedrun 2",
+        "REQUIRED AGE":0,
+        "PRICE":3.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":333260,
+        "NAME":"Marvin's Mittens",
+        "REQUIRED AGE":0,
+        "PRICE":5.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":333250,
+        "NAME":"Forward to the Sky",
+        "REQUIRED AGE":0,
+        "PRICE":7.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":333220,
+        "NAME":"Cherry Tree High I! My! Girls!",
+        "REQUIRED AGE":0,
+        "PRICE":0,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":333210,
+        "NAME":"Kaiju-A-GoGo",
+        "REQUIRED AGE":0,
+        "PRICE":3.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":333130,
+        "NAME":"Do Not Fall",
+        "REQUIRED AGE":0,
+        "PRICE":9.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":333120,
+        "NAME":"Inside The Gear",
+        "REQUIRED AGE":0,
+        "PRICE":1.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":333100,
+        "NAME":"Demesne",
+        "REQUIRED AGE":0,
+        "PRICE":17.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":549000,
+        "NAME":"Munch VR",
+        "REQUIRED AGE":0,
+        "PRICE":9.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":548900,
+        "NAME":"Alone in the Dark 3",
+        "REQUIRED AGE":0,
+        "PRICE":14.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":548890,
+        "NAME":"Alone in the Dark 2",
+        "REQUIRED AGE":0,
+        "PRICE":14.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":548860,
+        "NAME":"The Torus Syndicate",
+        "REQUIRED AGE":0,
+        "PRICE":14.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":548840,
+        "NAME":"A Rose in the Twilight",
+        "REQUIRED AGE":0,
+        "PRICE":19.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":548810,
+        "NAME":"Operation Babel: New Tokyo Legacy",
+        "REQUIRED AGE":0,
+        "PRICE":19.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":548800,
+        "NAME":"OFS",
+        "REQUIRED AGE":0,
+        "PRICE":2.0,
+        "HAS DISCOUNT":true,
+        "DISCOUNT":"SPECIAL PROMOTION! Offer ends 24 September",
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":548790,
+        "NAME":"Clothesline Carnage",
+        "REQUIRED AGE":0,
+        "PRICE":4.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":548760,
+        "NAME":"CameraBag Photo",
+        "REQUIRED AGE":0,
+        "PRICE":0,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":548740,
+        "NAME":"Warpin: Creation (VR)",
+        "REQUIRED AGE":0,
+        "PRICE":9.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":548720,
+        "NAME":"Through the Mirror",
+        "REQUIRED AGE":0,
+        "PRICE":4.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":548710,
+        "NAME":"Sandstorm",
+        "REQUIRED AGE":0,
+        "PRICE":0,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":548680,
+        "NAME":"Iron Crypticle",
+        "REQUIRED AGE":0,
+        "PRICE":9.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":548650,
+        "NAME":"Lightspeed Frontier",
+        "REQUIRED AGE":0,
+        "PRICE":14.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":548570,
+        "NAME":"RAGE 2",
+        "REQUIRED AGE":17,
+        "PRICE":39.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":548560,
+        "NAME":"Manastorm: Champions of G'nar",
+        "REQUIRED AGE":0,
+        "PRICE":4.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":548500,
+        "NAME":"Payroll",
+        "REQUIRED AGE":0,
+        "PRICE":0.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":548480,
+        "NAME":"NightZ",
+        "REQUIRED AGE":0,
+        "PRICE":0.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":548470,
+        "NAME":"First Impact: Rise of a Hero",
+        "REQUIRED AGE":0,
+        "PRICE":19.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":548450,
+        "NAME":"Foreveracers",
+        "REQUIRED AGE":0,
+        "PRICE":0,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":548430,
+        "NAME":"Deep Rock Galactic",
+        "REQUIRED AGE":0,
+        "PRICE":29.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":548390,
+        "NAME":"Gimbal Gravity",
+        "REQUIRED AGE":0,
+        "PRICE":5.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":548370,
+        "NAME":"Rezrog",
+        "REQUIRED AGE":0,
+        "PRICE":9.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":548360,
+        "NAME":"VR RunningJoe",
+        "REQUIRED AGE":0,
+        "PRICE":4.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":548350,
+        "NAME":"One Sole Purpose",
+        "REQUIRED AGE":0,
+        "PRICE":0,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":548340,
+        "NAME":"Abode",
+        "REQUIRED AGE":0,
+        "PRICE":9.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":548330,
+        "NAME":"Wheely",
+        "REQUIRED AGE":0,
+        "PRICE":1.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":548320,
+        "NAME":"Magical Mysteries: Path of the Sorceress",
+        "REQUIRED AGE":0,
+        "PRICE":4.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":548290,
+        "NAME":"Dark Eden",
+        "REQUIRED AGE":0,
+        "PRICE":0,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":548280,
+        "NAME":"NeonBall",
+        "REQUIRED AGE":0,
+        "PRICE":"Free To Play",
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":548260,
+        "NAME":"Backfire",
+        "REQUIRED AGE":0,
+        "PRICE":0,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":548240,
+        "NAME":"Demon Pit",
+        "REQUIRED AGE":0,
+        "PRICE":8.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":548230,
+        "NAME":"SPINGUN",
+        "REQUIRED AGE":0,
+        "PRICE":1.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":548220,
+        "NAME":"Paladin",
+        "REQUIRED AGE":0,
+        "PRICE":0,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":548170,
+        "NAME":"Arena Master",
+        "REQUIRED AGE":0,
+        "PRICE":7.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":548130,
+        "NAME":"Scribble Ships",
+        "REQUIRED AGE":0,
+        "PRICE":1.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":548110,
+        "NAME":"Star-Twine",
+        "REQUIRED AGE":0,
+        "PRICE":6.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":548090,
+        "NAME":"Alone in the Dark 1",
+        "REQUIRED AGE":0,
+        "PRICE":14.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":548080,
+        "NAME":"Space Merchants: Arena",
+        "REQUIRED AGE":0,
+        "PRICE":6.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":548050,
+        "NAME":"Runes",
+        "REQUIRED AGE":0,
+        "PRICE":0,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":548020,
+        "NAME":"Warmada",
+        "REQUIRED AGE":0,
+        "PRICE":4.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":548010,
+        "NAME":"3D Organon VR Anatomy 2018",
+        "REQUIRED AGE":0,
+        "PRICE":0,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":395960,
+        "NAME":"عالم أريب",
+        "REQUIRED AGE":0,
+        "PRICE":54.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":395940,
+        "NAME":"Scribbled Arena",
+        "REQUIRED AGE":0,
+        "PRICE":8.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":395930,
+        "NAME":"Farm Frenzy: Heave Ho",
+        "REQUIRED AGE":0,
+        "PRICE":4.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":395920,
+        "NAME":"Playing History - The Plague",
+        "REQUIRED AGE":0,
+        "PRICE":0,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":395910,
+        "NAME":"Get Rich or Die Gaming",
+        "REQUIRED AGE":0,
+        "PRICE":2.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":395900,
+        "NAME":"Backgammon Blitz",
+        "REQUIRED AGE":0,
+        "PRICE":3.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":395890,
+        "NAME":"Lapland Solitaire",
+        "REQUIRED AGE":0,
+        "PRICE":0,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":395880,
+        "NAME":"Sky Tower",
+        "REQUIRED AGE":0,
+        "PRICE":4.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":395860,
+        "NAME":"The Last Dream: Developer's Edition",
+        "REQUIRED AGE":0,
+        "PRICE":9.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":395850,
+        "NAME":"Bear Simulator",
+        "REQUIRED AGE":0,
+        "PRICE":14.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":395830,
+        "NAME":"LOW-FI",
+        "REQUIRED AGE":0,
+        "PRICE":"",
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":395760,
+        "NAME":"Decent Icons",
+        "REQUIRED AGE":0,
+        "PRICE":2.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":395640,
+        "NAME":"Velocity Stream",
+        "REQUIRED AGE":0,
+        "PRICE":0,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":395620,
+        "NAME":"Ittle Dew 2+",
+        "REQUIRED AGE":0,
+        "PRICE":19.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":395600,
+        "NAME":"Armor Clash",
+        "REQUIRED AGE":0,
+        "PRICE":6.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":395580,
+        "NAME":"Inventioneers",
+        "REQUIRED AGE":0,
+        "PRICE":6.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":395570,
+        "NAME":"We Are The Dwarves",
+        "REQUIRED AGE":0,
+        "PRICE":14.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":395560,
+        "NAME":"Lost Horizon 2",
+        "REQUIRED AGE":0,
+        "PRICE":14.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":395550,
+        "NAME":"Operation Hardcore",
+        "REQUIRED AGE":0,
+        "PRICE":4.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":395520,
+        "NAME":"Missing Translation",
+        "REQUIRED AGE":0,
+        "PRICE":"Free To Play",
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":395500,
+        "NAME":"Rot Gut",
+        "REQUIRED AGE":0,
+        "PRICE":1.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":395480,
+        "NAME":"The Makeshifter",
+        "REQUIRED AGE":0,
+        "PRICE":8.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":395470,
+        "NAME":"ICARUS.1",
+        "REQUIRED AGE":0,
+        "PRICE":6.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":395420,
+        "NAME":"The Dwarf Run",
+        "REQUIRED AGE":0,
+        "PRICE":8.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":395400,
+        "NAME":"Freedom Cry",
+        "REQUIRED AGE":0,
+        "PRICE":9.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":395380,
+        "NAME":"ANKI",
+        "REQUIRED AGE":0,
+        "PRICE":0.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":395370,
+        "NAME":"Astrobase Command",
+        "REQUIRED AGE":0,
+        "PRICE":"",
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":395350,
+        "NAME":"Doors",
+        "REQUIRED AGE":0,
+        "PRICE":0,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":395300,
+        "NAME":"Voxel Blast",
+        "REQUIRED AGE":0,
+        "PRICE":5.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":395270,
+        "NAME":"A Wolf in Autumn",
+        "REQUIRED AGE":0,
+        "PRICE":1.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":395250,
+        "NAME":"The Adventures of Fatman",
+        "REQUIRED AGE":0,
+        "PRICE":0.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":395200,
+        "NAME":"Ben and Ed",
+        "REQUIRED AGE":0,
+        "PRICE":9.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":395190,
+        "NAME":"Reiner Knizia's The Confrontation",
+        "REQUIRED AGE":0,
+        "PRICE":0,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":395170,
+        "NAME":"DISTRAINT: Deluxe Edition",
+        "REQUIRED AGE":0,
+        "PRICE":4.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":395160,
+        "NAME":"Toby: The Secret Mine",
+        "REQUIRED AGE":0,
+        "PRICE":9.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":395150,
+        "NAME":"Dark Storm: VR Missions",
+        "REQUIRED AGE":0,
+        "PRICE":0,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":395140,
+        "NAME":"Miracle Fly",
+        "REQUIRED AGE":0,
+        "PRICE":7.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":395100,
+        "NAME":"Systematic Immunity",
+        "REQUIRED AGE":0,
+        "PRICE":3.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":500980,
+        "NAME":"Endangered",
+        "REQUIRED AGE":0,
+        "PRICE":"Free",
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":500940,
+        "NAME":"Get The Gems",
+        "REQUIRED AGE":0,
+        "PRICE":2.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":500920,
+        "NAME":"House of Alice",
+        "REQUIRED AGE":0,
+        "PRICE":9.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":500880,
+        "NAME":"Tails",
+        "REQUIRED AGE":0,
+        "PRICE":0,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":500870,
+        "NAME":"Riddles Of The Past",
+        "REQUIRED AGE":0,
+        "PRICE":6.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":500810,
+        "NAME":"Arcanum: Of Steamworks and Magick Obscura",
+        "REQUIRED AGE":0,
+        "PRICE":5.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":500800,
+        "NAME":"Rogue Fighter",
+        "REQUIRED AGE":0,
+        "PRICE":4.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":500790,
+        "NAME":"Moribund",
+        "REQUIRED AGE":0,
+        "PRICE":9.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":500760,
+        "NAME":"Kuraburo Kai",
+        "REQUIRED AGE":0,
+        "PRICE":4.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":500750,
+        "NAME":"GI Racing 2.0",
+        "REQUIRED AGE":0,
+        "PRICE":"Free To Play",
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":500740,
+        "NAME":"Enigma Prison",
+        "REQUIRED AGE":0,
+        "PRICE":"",
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":500710,
+        "NAME":"Wild Terra Online",
+        "REQUIRED AGE":0,
+        "PRICE":"Free To Play",
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":500690,
+        "NAME":"Secret Santa",
+        "REQUIRED AGE":0,
+        "PRICE":"Free To Play",
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":500680,
+        "NAME":"Jockey Rush",
+        "REQUIRED AGE":0,
+        "PRICE":19.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":500670,
+        "NAME":"Tormentor❌Punisher",
+        "REQUIRED AGE":0,
+        "PRICE":7.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":500660,
+        "NAME":"Limberjack",
+        "REQUIRED AGE":0,
+        "PRICE":"Free",
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":500590,
+        "NAME":"Puppy Dog: Jigsaw Puzzles",
+        "REQUIRED AGE":0,
+        "PRICE":0.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":500580,
+        "NAME":"Kitty Cat: Jigsaw Puzzles",
+        "REQUIRED AGE":0,
+        "PRICE":0.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":500570,
+        "NAME":"Mahjong Deluxe 2: Astral Planes",
+        "REQUIRED AGE":0,
+        "PRICE":1.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":500550,
+        "NAME":"Save the Universe, Please!",
+        "REQUIRED AGE":0,
+        "PRICE":2.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":500500,
+        "NAME":"Simple VR Video Player",
+        "REQUIRED AGE":0,
+        "PRICE":7.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":500480,
+        "NAME":"Fist of Physics",
+        "REQUIRED AGE":0,
+        "PRICE":9.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":500470,
+        "NAME":"Emergence ᵠ",
+        "REQUIRED AGE":0,
+        "PRICE":9.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":476930,
+        "NAME":"FourChords Guitar Karaoke",
+        "REQUIRED AGE":0,
+        "PRICE":0,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":476920,
+        "NAME":"Amulet of Dreams",
+        "REQUIRED AGE":0,
+        "PRICE":6.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":476710,
+        "NAME":"MechaGore",
+        "REQUIRED AGE":0,
+        "PRICE":1.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":476700,
+        "NAME":"Island 359™",
+        "REQUIRED AGE":0,
+        "PRICE":14.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":476680,
+        "NAME":"Emberdoom VR",
+        "REQUIRED AGE":0,
+        "PRICE":9.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":476670,
+        "NAME":"Emberdoom",
+        "REQUIRED AGE":0,
+        "PRICE":9.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":476650,
+        "NAME":"The Silver Case",
+        "REQUIRED AGE":0,
+        "PRICE":19.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":476600,
+        "NAME":"Call of Duty®: WWII",
+        "REQUIRED AGE":17,
+        "PRICE":59.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":476540,
+        "NAME":"Google Spotlight Stories: Pearl",
+        "REQUIRED AGE":0,
+        "PRICE":"Free",
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":476530,
+        "NAME":"Children of a Dead Earth",
+        "REQUIRED AGE":0,
+        "PRICE":19.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":476510,
+        "NAME":"Cally's Trials",
+        "REQUIRED AGE":0,
+        "PRICE":6.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":476490,
+        "NAME":"Choice of the Pirate",
+        "REQUIRED AGE":0,
+        "PRICE":4.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":476480,
+        "NAME":"Heaven Forest - VR MMO",
+        "REQUIRED AGE":0,
+        "PRICE":0,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":476460,
+        "NAME":"Picross Touch",
+        "REQUIRED AGE":0,
+        "PRICE":"Free",
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":476450,
+        "NAME":"So Much Blood",
+        "REQUIRED AGE":0,
+        "PRICE":2.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":476430,
+        "NAME":"SwingStar VR",
+        "REQUIRED AGE":0,
+        "PRICE":7.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":476420,
+        "NAME":"Heart of Crown PC",
+        "REQUIRED AGE":0,
+        "PRICE":24.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":476410,
+        "NAME":"One Small Fire At A Time",
+        "REQUIRED AGE":0,
+        "PRICE":9.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":476370,
+        "NAME":"MAGATAMA Earrings",
+        "REQUIRED AGE":0,
+        "PRICE":6.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":476360,
+        "NAME":"Strike Vector EX",
+        "REQUIRED AGE":0,
+        "PRICE":0,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":476240,
+        "NAME":"KNIGHTS",
+        "REQUIRED AGE":0,
+        "PRICE":0,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":476030,
+        "NAME":"Johnny Graves—The Unchosen One",
+        "REQUIRED AGE":0,
+        "PRICE":3.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":476020,
+        "NAME":"Reflection of Mine",
+        "REQUIRED AGE":0,
+        "PRICE":8.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":476000,
+        "NAME":"Slightly Magic - 8bit Legacy Edition",
+        "REQUIRED AGE":0,
+        "PRICE":0,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":465000,
+        "NAME":"Event Horizon",
+        "REQUIRED AGE":0,
+        "PRICE":5.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":464960,
+        "NAME":"Hiiro",
+        "REQUIRED AGE":0,
+        "PRICE":2.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":464950,
+        "NAME":"Sumer",
+        "REQUIRED AGE":0,
+        "PRICE":14.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":464940,
+        "NAME":"Sketchfab VR",
+        "REQUIRED AGE":0,
+        "PRICE":"",
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":464920,
+        "NAME":"Surviving Mars",
+        "REQUIRED AGE":0,
+        "PRICE":0,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":464900,
+        "NAME":"Pitfall Planet",
+        "REQUIRED AGE":0,
+        "PRICE":9.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":464880,
+        "NAME":"Stars in Shadow",
+        "REQUIRED AGE":0,
+        "PRICE":24.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":464850,
+        "NAME":"Don Bradman Cricket 17",
+        "REQUIRED AGE":0,
+        "PRICE":29.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":464800,
+        "NAME":"Twisted Worlds",
+        "REQUIRED AGE":0,
+        "PRICE":"Free To Play",
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":464780,
+        "NAME":"ChuSingura46+1 S",
+        "REQUIRED AGE":0,
+        "PRICE":0,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":464740,
+        "NAME":"Monsters and Medicine",
+        "REQUIRED AGE":0,
+        "PRICE":9.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":464700,
+        "NAME":"Maui",
+        "REQUIRED AGE":0,
+        "PRICE":"Free",
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":464690,
+        "NAME":"Vroomist",
+        "REQUIRED AGE":0,
+        "PRICE":6.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":464670,
+        "NAME":"Empty Soul - S&S Edition",
+        "REQUIRED AGE":0,
+        "PRICE":0,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":464650,
+        "NAME":"Runbow",
+        "REQUIRED AGE":0,
+        "PRICE":14.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":464630,
+        "NAME":"Secret Of The Royal Throne",
+        "REQUIRED AGE":0,
+        "PRICE":6.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":464620,
+        "NAME":"Siralim 2",
+        "REQUIRED AGE":0,
+        "PRICE":14.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":464610,
+        "NAME":"Led It Rain",
+        "REQUIRED AGE":0,
+        "PRICE":11.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":464540,
+        "NAME":"Colosse",
+        "REQUIRED AGE":0,
+        "PRICE":"",
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":464530,
+        "NAME":"猫肉「Cat Meat」",
+        "REQUIRED AGE":0,
+        "PRICE":0.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":464500,
+        "NAME":"The Melody of Grisaia",
+        "REQUIRED AGE":0,
+        "PRICE":8.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":464490,
+        "NAME":"The Afterglow of Grisaia",
+        "REQUIRED AGE":0,
+        "PRICE":8.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":464470,
+        "NAME":"BloodGate",
+        "REQUIRED AGE":0,
+        "PRICE":0,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":464450,
+        "NAME":"DoDonPachi Resurrection",
+        "REQUIRED AGE":0,
+        "PRICE":29.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":464440,
+        "NAME":"Annie Amber",
+        "REQUIRED AGE":0,
+        "PRICE":2.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":464400,
+        "NAME":"Bounce",
+        "REQUIRED AGE":0,
+        "PRICE":0,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":464380,
+        "NAME":"Best of Us",
+        "REQUIRED AGE":0,
+        "PRICE":4.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":464360,
+        "NAME":"3030 Deathwar Redux - A Space Odyssey",
+        "REQUIRED AGE":0,
+        "PRICE":0,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":464350,
+        "NAME":"Screeps: World",
+        "REQUIRED AGE":0,
+        "PRICE":19.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":464340,
+        "NAME":"Syberia 3",
+        "REQUIRED AGE":0,
+        "PRICE":14.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":464260,
+        "NAME":"Xeno Crisis",
+        "REQUIRED AGE":0,
+        "PRICE":19.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":464240,
+        "NAME":"Detective Hunt - Crownston City PD",
+        "REQUIRED AGE":0,
+        "PRICE":0,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":464230,
+        "NAME":"Colours of Magic: Aqua Teeter",
+        "REQUIRED AGE":0,
+        "PRICE":0.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":464170,
+        "NAME":"VRMark",
+        "REQUIRED AGE":0,
+        "PRICE":19.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":464150,
+        "NAME":"Regalia: Of Men and Monarchs",
+        "REQUIRED AGE":0,
+        "PRICE":19.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":464120,
+        "NAME":"Xcinerator",
+        "REQUIRED AGE":0,
+        "PRICE":1.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":464110,
+        "NAME":"Factotum 90",
+        "REQUIRED AGE":0,
+        "PRICE":3.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":464100,
+        "NAME":"Codex of Victory",
+        "REQUIRED AGE":0,
+        "PRICE":14.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":464080,
+        "NAME":"Kyoto Colorful Days",
+        "REQUIRED AGE":0,
+        "PRICE":2.99,
+        "HAS DISCOUNT":true,
+        "DISCOUNT":"WEEK LONG DEAL! Offer ends 28 September",
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":464070,
+        "NAME":"Diorama Battle of NINJA　虚拟3D世界 忍者之战",
+        "REQUIRED AGE":0,
+        "PRICE":0,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":464060,
+        "NAME":"RUINER",
+        "REQUIRED AGE":17,
+        "PRICE":19.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":464050,
+        "NAME":"Heroes Must Die",
+        "REQUIRED AGE":0,
+        "PRICE":"Free",
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":464040,
+        "NAME":"Log Drive Runner",
+        "REQUIRED AGE":0,
+        "PRICE":1.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":464020,
+        "NAME":"Super Puzzle Galaxy",
+        "REQUIRED AGE":0,
+        "PRICE":0,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":464000,
+        "NAME":"Arcade Saga",
+        "REQUIRED AGE":0,
+        "PRICE":0,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":462000,
+        "NAME":"Cyberpong",
+        "REQUIRED AGE":0,
+        "PRICE":8.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":461990,
+        "NAME":"The Prison Game",
+        "REQUIRED AGE":0,
+        "PRICE":24.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":461970,
+        "NAME":"Skyreach",
+        "REQUIRED AGE":0,
+        "PRICE":"Free",
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":461950,
+        "NAME":"Beat Cop",
+        "REQUIRED AGE":0,
+        "PRICE":14.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":461940,
+        "NAME":"Plancon: Space Conflict",
+        "REQUIRED AGE":0,
+        "PRICE":6.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":461910,
+        "NAME":"Forge of Gods (RPG)",
+        "REQUIRED AGE":0,
+        "PRICE":0,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":461890,
+        "NAME":"NORTH",
+        "REQUIRED AGE":0,
+        "PRICE":0,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":461880,
+        "NAME":"Hyposphere",
+        "REQUIRED AGE":0,
+        "PRICE":2.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":461870,
+        "NAME":"Police Simulator: Patrol Duty",
+        "REQUIRED AGE":0,
+        "PRICE":"",
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":461860,
+        "NAME":"Tower Dwellers",
+        "REQUIRED AGE":0,
+        "PRICE":9.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":461850,
+        "NAME":"Abrix 2 - Diamond version",
+        "REQUIRED AGE":0,
+        "PRICE":0,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":461840,
+        "NAME":"Zenge",
+        "REQUIRED AGE":0,
+        "PRICE":1.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":461830,
+        "NAME":"Adventure Apes and the Mayan Mystery",
+        "REQUIRED AGE":0,
+        "PRICE":2.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":461820,
+        "NAME":"Legionwood 1: Tale of the Two Swords",
+        "REQUIRED AGE":0,
+        "PRICE":"Free",
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":461810,
+        "NAME":"CAFE 0 ~The Sleeping Beast~",
+        "REQUIRED AGE":0,
+        "PRICE":16.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":602000,
+        "NAME":"Uplands Motel: VR Thriller",
+        "REQUIRED AGE":0,
+        "PRICE":0,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":601990,
+        "NAME":"Perspectives: Aleppo-Helsinki",
+        "REQUIRED AGE":0,
+        "PRICE":"Free To Play",
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":601940,
+        "NAME":"Fancy Fishing VR",
+        "REQUIRED AGE":0,
+        "PRICE":4.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":601930,
+        "NAME":"Trianguluv",
+        "REQUIRED AGE":0,
+        "PRICE":1.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":601920,
+        "NAME":"Adjacency",
+        "REQUIRED AGE":0,
+        "PRICE":2.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":601890,
+        "NAME":"PD Howler 11",
+        "REQUIRED AGE":0,
+        "PRICE":7.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":601880,
+        "NAME":"BoostBots VR",
+        "REQUIRED AGE":0,
+        "PRICE":0.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":601870,
+        "NAME":"Biotoxin: The Dark Days",
+        "REQUIRED AGE":0,
+        "PRICE":2.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":601840,
+        "NAME":"Griftlands",
+        "REQUIRED AGE":0,
+        "PRICE":5.99,
+        "HAS DISCOUNT":true,
+        "DISCOUNT":"DAILY DEAL! Offer ends 1 October",
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":601810,
+        "NAME":"Spark the Electric Jester",
+        "REQUIRED AGE":0,
+        "PRICE":7.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":601790,
+        "NAME":"Eternal Lore",
+        "REQUIRED AGE":0,
+        "PRICE":9.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":601780,
+        "NAME":"VoiceWarrior",
+        "REQUIRED AGE":0,
+        "PRICE":3.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":601770,
+        "NAME":"Sparc",
+        "REQUIRED AGE":0,
+        "PRICE":0,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":601760,
+        "NAME":"VR Audio Visualizer",
+        "REQUIRED AGE":0,
+        "PRICE":1.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":601750,
+        "NAME":"Range Day VR",
+        "REQUIRED AGE":0,
+        "PRICE":15.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":601700,
+        "NAME":"JETBROS",
+        "REQUIRED AGE":0,
+        "PRICE":9.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":601640,
+        "NAME":"The guard of dungeon",
+        "REQUIRED AGE":0,
+        "PRICE":1.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":601620,
+        "NAME":"Room Designer VR",
+        "REQUIRED AGE":0,
+        "PRICE":24.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":601590,
+        "NAME":"BattleTrucks",
+        "REQUIRED AGE":0,
+        "PRICE":"",
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":601570,
+        "NAME":"Fix Me Fix You",
+        "REQUIRED AGE":0,
+        "PRICE":6.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":601550,
+        "NAME":"Don't Look Back",
+        "REQUIRED AGE":13,
+        "PRICE":4.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":601540,
+        "NAME":"Veil of Crows",
+        "REQUIRED AGE":0,
+        "PRICE":14.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":601530,
+        "NAME":"Darkarta: A Broken Heart's Quest Collector's Edition",
+        "REQUIRED AGE":0,
+        "PRICE":9.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":601520,
+        "NAME":"Sirius: Age of the Free Agents",
+        "REQUIRED AGE":0,
+        "PRICE":1.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":601510,
+        "NAME":"Yu-Gi-Oh! Duel Links",
+        "REQUIRED AGE":0,
+        "PRICE":"Free To Play",
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":601500,
+        "NAME":"Lost in Nature",
+        "REQUIRED AGE":0,
+        "PRICE":14.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":601490,
+        "NAME":"Passengers: Awakening VR Experience",
+        "REQUIRED AGE":0,
+        "PRICE":7.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":601430,
+        "NAME":"The Evil Within 2",
+        "REQUIRED AGE":17,
+        "PRICE":39.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":601420,
+        "NAME":"Dark Parables: Requiem for the Forgotten Shadow Collector's Edition",
+        "REQUIRED AGE":0,
+        "PRICE":0,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":601400,
+        "NAME":"qb",
+        "REQUIRED AGE":0,
+        "PRICE":0,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":601380,
+        "NAME":"The Last One",
+        "REQUIRED AGE":0,
+        "PRICE":8.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":601330,
+        "NAME":"Eye of Odin",
+        "REQUIRED AGE":0,
+        "PRICE":14.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":609940,
+        "NAME":"KROSMAGA",
+        "REQUIRED AGE":0,
+        "PRICE":"Free To Play",
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":609920,
+        "NAME":"Hotshot Racing",
+        "REQUIRED AGE":0,
+        "PRICE":3.99,
+        "HAS DISCOUNT":true,
+        "DISCOUNT":"SPECIAL PROMOTION! Offer ends 28 September",
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":609850,
+        "NAME":"Slinger VR",
+        "REQUIRED AGE":0,
+        "PRICE":14.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":609760,
+        "NAME":"The Eagle's Heir",
+        "REQUIRED AGE":0,
+        "PRICE":5.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":609720,
+        "NAME":"Tyr: Chains of Valhalla",
+        "REQUIRED AGE":0,
+        "PRICE":10.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":609490,
+        "NAME":"Minit",
+        "REQUIRED AGE":0,
+        "PRICE":9.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":609420,
+        "NAME":"Never Give Up",
+        "REQUIRED AGE":0,
+        "PRICE":14.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":609410,
+        "NAME":"Iron Tides",
+        "REQUIRED AGE":0,
+        "PRICE":2.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":609400,
+        "NAME":"City Rush",
+        "REQUIRED AGE":0,
+        "PRICE":9.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":609360,
+        "NAME":"Gravity Garden",
+        "REQUIRED AGE":0,
+        "PRICE":"Free To Play",
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":609340,
+        "NAME":"Twilight Phenomena: The Lodgers of House 13 Collector's Edition",
+        "REQUIRED AGE":0,
+        "PRICE":19.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":609320,
+        "NAME":"FAR: Lone Sails",
+        "REQUIRED AGE":0,
+        "PRICE":14.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":609170,
+        "NAME":"Drummer Talent VR",
+        "REQUIRED AGE":0,
+        "PRICE":19.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":609150,
+        "NAME":"STAR OCEAN™ - THE LAST HOPE -™ 4K & Full HD Remaster",
+        "REQUIRED AGE":13,
+        "PRICE":0,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":609110,
+        "NAME":"Blazing Chrome",
+        "REQUIRED AGE":0,
+        "PRICE":16.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    },
+    {
+        "STEAM ID":609100,
+        "NAME":"Gold Rush! 2",
+        "REQUIRED AGE":0,
+        "PRICE":7.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":1790035200000
+    }
+]
