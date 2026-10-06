@@ -1,12 +1,903 @@
 [
     {
+        "STEAM ID":285960,
+        "NAME":"Q*bert: Rebooted",
+        "REQUIRED AGE":0,
+        "PRICE":0,
+        "HAS DISCOUNT":true,
+        "DISCOUNT":"SPECIAL PROMOTION! Offer ends 8 October",
+        "TODAY DATE":"2026-10-05"
+    },
+    {
+        "STEAM ID":285920,
+        "NAME":"TerraTech",
+        "REQUIRED AGE":0,
+        "PRICE":6.24,
+        "HAS DISCOUNT":true,
+        "DISCOUNT":"SPECIAL PROMOTION! Offer ends 8 October",
+        "TODAY DATE":"2026-10-05"
+    },
+    {
+        "STEAM ID":285900,
+        "NAME":"Gang Beasts",
+        "REQUIRED AGE":0,
+        "PRICE":7.99,
+        "HAS DISCOUNT":true,
+        "DISCOUNT":"SPECIAL PROMOTION! Offer ends 8 October",
+        "TODAY DATE":"2026-10-05"
+    },
+    {
+        "STEAM ID":285840,
+        "NAME":"Enemy Mind",
+        "REQUIRED AGE":0,
+        "PRICE":3.99,
+        "HAS DISCOUNT":true,
+        "DISCOUNT":"SPECIAL PROMOTION! Offer ends 8 October",
+        "TODAY DATE":"2026-10-05"
+    },
+    {
+        "STEAM ID":285820,
+        "NAME":"Action Henk",
+        "REQUIRED AGE":0,
+        "PRICE":3.74,
+        "HAS DISCOUNT":true,
+        "DISCOUNT":"SPECIAL PROMOTION! Offer ends 8 October",
+        "TODAY DATE":"2026-10-05"
+    },
+    {
+        "STEAM ID":285800,
+        "NAME":"Braveland",
+        "REQUIRED AGE":0,
+        "PRICE":0.99,
+        "HAS DISCOUNT":true,
+        "DISCOUNT":"SPECIAL PROMOTION! Offer ends 8 October",
+        "TODAY DATE":"2026-10-05"
+    },
+    {
+        "STEAM ID":285740,
+        "NAME":"Kitty Powers' Matchmaker",
+        "REQUIRED AGE":0,
+        "PRICE":4.99,
+        "HAS DISCOUNT":true,
+        "DISCOUNT":"SPECIAL PROMOTION! Offer ends 8 October",
+        "TODAY DATE":"2026-10-05"
+    },
+    {
+        "STEAM ID":285670,
+        "NAME":"Galactic Command Echo Squad SE",
+        "REQUIRED AGE":0,
+        "PRICE":4.99,
+        "HAS DISCOUNT":true,
+        "DISCOUNT":"SPECIAL PROMOTION! Offer ends 8 October",
+        "TODAY DATE":"2026-10-05"
+    },
+    {
+        "STEAM ID":285580,
+        "NAME":"ACE - Arena: Cyber Evolution",
+        "REQUIRED AGE":0,
+        "PRICE":0,
+        "HAS DISCOUNT":true,
+        "DISCOUNT":"SPECIAL PROMOTION! Offer ends 8 October",
+        "TODAY DATE":"2026-10-05"
+    },
+    {
+        "STEAM ID":285520,
+        "NAME":"Sledgehammer \/ Gear Grinder",
+        "REQUIRED AGE":0,
+        "PRICE":0,
+        "HAS DISCOUNT":true,
+        "DISCOUNT":"SPECIAL PROMOTION! Offer ends 8 October",
+        "TODAY DATE":"2026-10-05"
+    },
+    {
+        "STEAM ID":285500,
+        "NAME":"Hard Truck Apocalypse \/ Ex Machina",
+        "REQUIRED AGE":0,
+        "PRICE":0,
+        "HAS DISCOUNT":true,
+        "DISCOUNT":"SPECIAL PROMOTION! Offer ends 8 October",
+        "TODAY DATE":"2026-10-05"
+    },
+    {
+        "STEAM ID":285480,
+        "NAME":"The Entente Gold",
+        "REQUIRED AGE":0,
+        "PRICE":0.99,
+        "HAS DISCOUNT":true,
+        "DISCOUNT":"SPECIAL PROMOTION! Offer ends 8 October",
+        "TODAY DATE":"2026-10-05"
+    },
+    {
+        "STEAM ID":285440,
+        "NAME":"Crimzon Clover WORLD IGNITION",
+        "REQUIRED AGE":0,
+        "PRICE":0,
+        "HAS DISCOUNT":true,
+        "DISCOUNT":"SPECIAL PROMOTION! Offer ends 8 October",
+        "TODAY DATE":"2026-10-05"
+    },
+    {
+        "STEAM ID":285420,
+        "NAME":"Deadly Sin 2",
+        "REQUIRED AGE":0,
+        "PRICE":0.99,
+        "HAS DISCOUNT":true,
+        "DISCOUNT":"SPECIAL PROMOTION! Offer ends 8 October",
+        "TODAY DATE":"2026-10-05"
+    },
+    {
+        "STEAM ID":285380,
+        "NAME":"On The Road - The Truck Simulator",
+        "REQUIRED AGE":0,
+        "PRICE":0,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":"2026-10-05"
+    },
+    {
+        "STEAM ID":285350,
+        "NAME":"Kingdom Elemental",
+        "REQUIRED AGE":0,
+        "PRICE":2.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":"2026-10-05"
+    },
+    {
+        "STEAM ID":285330,
+        "NAME":"RollerCoaster Tycoon® 2: Triple Thrill Pack",
+        "REQUIRED AGE":0,
+        "PRICE":2.49,
+        "HAS DISCOUNT":true,
+        "DISCOUNT":"SPECIAL PROMOTION! Offer ends 8 October",
+        "TODAY DATE":"2026-10-05"
+    },
+    {
+        "STEAM ID":285310,
+        "NAME":"RollerCoaster Tycoon®: Deluxe",
+        "REQUIRED AGE":0,
+        "PRICE":1.49,
+        "HAS DISCOUNT":true,
+        "DISCOUNT":"SPECIAL PROMOTION! Offer ends 8 October",
+        "TODAY DATE":"2026-10-05"
+    },
+    {
+        "STEAM ID":285190,
+        "NAME":"Warhammer 40,000: Dawn of War III",
+        "REQUIRED AGE":0,
+        "PRICE":7.99,
+        "HAS DISCOUNT":true,
+        "DISCOUNT":"SPECIAL PROMOTION! Offer ends 8 October",
+        "TODAY DATE":"2026-10-05"
+    },
+    {
+        "STEAM ID":285160,
+        "NAME":"LEGO® The Hobbit™",
+        "REQUIRED AGE":0,
+        "PRICE":3.99,
+        "HAS DISCOUNT":true,
+        "DISCOUNT":"SPECIAL PROMOTION! Offer ends 8 October",
+        "TODAY DATE":"2026-10-05"
+    },
+    {
+        "STEAM ID":285130,
+        "NAME":"Battleplan: American Civil War",
+        "REQUIRED AGE":0,
+        "PRICE":9.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":"2026-10-05"
+    },
+    {
+        "STEAM ID":285110,
+        "NAME":"GearCity",
+        "REQUIRED AGE":0,
+        "PRICE":11.99,
+        "HAS DISCOUNT":true,
+        "DISCOUNT":"SPECIAL PROMOTION! Offer ends 8 October",
+        "TODAY DATE":"2026-10-05"
+    },
+    {
+        "STEAM ID":285090,
+        "NAME":"Robowars",
+        "REQUIRED AGE":0,
+        "PRICE":0.79,
+        "HAS DISCOUNT":true,
+        "DISCOUNT":"SPECIAL PROMOTION! Offer ends 8 October",
+        "TODAY DATE":"2026-10-05"
+    },
+    {
+        "STEAM ID":285070,
+        "NAME":"Between Me and The Night",
+        "REQUIRED AGE":0,
+        "PRICE":4.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":"2026-10-05"
+    },
+    {
+        "STEAM ID":285010,
+        "NAME":"Pixel Puzzles: UndeadZ",
+        "REQUIRED AGE":0,
+        "PRICE":"",
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":"2026-10-05"
+    },
+    {
+        "STEAM ID":338000,
+        "NAME":"Echoes+",
+        "REQUIRED AGE":0,
+        "PRICE":0,
+        "HAS DISCOUNT":true,
+        "DISCOUNT":"SPECIAL PROMOTION! Offer ends 8 October",
+        "TODAY DATE":"2026-10-05T00:00:00.000"
+    },
+    {
+        "STEAM ID":337980,
+        "NAME":"Vagrant Hearts",
+        "REQUIRED AGE":0,
+        "PRICE":0.79,
+        "HAS DISCOUNT":true,
+        "DISCOUNT":"SPECIAL PROMOTION! Offer ends 8 October",
+        "TODAY DATE":"2026-10-05T00:00:00.000"
+    },
+    {
+        "STEAM ID":337970,
+        "NAME":"Wildlife Park - Wild Creatures",
+        "REQUIRED AGE":0,
+        "PRICE":0,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":"2026-10-05T00:00:00.000"
+    },
+    {
+        "STEAM ID":337960,
+        "NAME":"ClusterPuck 99",
+        "REQUIRED AGE":0,
+        "PRICE":4.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":"2026-10-05T00:00:00.000"
+    },
+    {
+        "STEAM ID":337950,
+        "NAME":"The SKIES - BETA",
+        "REQUIRED AGE":0,
+        "PRICE":0,
+        "HAS DISCOUNT":true,
+        "DISCOUNT":"SPECIAL PROMOTION! Offer ends 8 October",
+        "TODAY DATE":"2026-10-05T00:00:00.000"
+    },
+    {
+        "STEAM ID":337940,
+        "NAME":"X-note",
+        "REQUIRED AGE":0,
+        "PRICE":9.74,
+        "HAS DISCOUNT":true,
+        "DISCOUNT":"SPECIAL PROMOTION! Offer ends 8 October",
+        "TODAY DATE":"2026-10-05T00:00:00.000"
+    },
+    {
+        "STEAM ID":337930,
+        "NAME":"Nameless ~The one thing you must recall~",
+        "REQUIRED AGE":0,
+        "PRICE":19.49,
+        "HAS DISCOUNT":true,
+        "DISCOUNT":"SPECIAL PROMOTION! Offer ends 8 October",
+        "TODAY DATE":"2026-10-05T00:00:00.000"
+    },
+    {
+        "STEAM ID":337890,
+        "NAME":"Dysfunctional Systems: Orientation",
+        "REQUIRED AGE":0,
+        "PRICE":2.49,
+        "HAS DISCOUNT":true,
+        "DISCOUNT":"SPECIAL PROMOTION! Offer ends 8 October",
+        "TODAY DATE":"2026-10-05T00:00:00.000"
+    },
+    {
+        "STEAM ID":337880,
+        "NAME":"One Late Night: Deadline",
+        "REQUIRED AGE":0,
+        "PRICE":"Free To Play",
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":"2026-10-05T00:00:00.000"
+    },
+    {
+        "STEAM ID":337850,
+        "NAME":"Avernum 2: Crystal Souls",
+        "REQUIRED AGE":0,
+        "PRICE":4.99,
+        "HAS DISCOUNT":true,
+        "DISCOUNT":"SPECIAL PROMOTION! Offer ends 8 October",
+        "TODAY DATE":"2026-10-05T00:00:00.000"
+    },
+    {
+        "STEAM ID":337820,
+        "NAME":"The Mims Beginning",
+        "REQUIRED AGE":0,
+        "PRICE":"Free To Play",
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":"2026-10-05T00:00:00.000"
+    },
+    {
+        "STEAM ID":337760,
+        "NAME":"Decisive Campaigns: The Blitzkrieg from Warsaw to Paris",
+        "REQUIRED AGE":0,
+        "PRICE":9.99,
+        "HAS DISCOUNT":true,
+        "DISCOUNT":"SPECIAL PROMOTION! Offer ends 8 October",
+        "TODAY DATE":"2026-10-05T00:00:00.000"
+    },
+    {
+        "STEAM ID":337730,
+        "NAME":"Battletank LOBA",
+        "REQUIRED AGE":0,
+        "PRICE":2.99,
+        "HAS DISCOUNT":true,
+        "DISCOUNT":"SPECIAL PROMOTION! Offer ends 8 October",
+        "TODAY DATE":"2026-10-05T00:00:00.000"
+    },
+    {
+        "STEAM ID":337720,
+        "NAME":"The Lands of Dream",
+        "REQUIRED AGE":0,
+        "PRICE":0.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":"2026-10-05T00:00:00.000"
+    },
+    {
+        "STEAM ID":337700,
+        "NAME":"SCS deORBIT",
+        "REQUIRED AGE":0,
+        "PRICE":0.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":"2026-10-05T00:00:00.000"
+    },
+    {
+        "STEAM ID":337680,
+        "NAME":"Star Hammer: The Vanguard Prophecy",
+        "REQUIRED AGE":0,
+        "PRICE":4.99,
+        "HAS DISCOUNT":true,
+        "DISCOUNT":"SPECIAL PROMOTION! Offer ends 8 October",
+        "TODAY DATE":"2026-10-05T00:00:00.000"
+    },
+    {
+        "STEAM ID":337670,
+        "NAME":"Default Dan",
+        "REQUIRED AGE":0,
+        "PRICE":5.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":"2026-10-05T00:00:00.000"
+    },
+    {
+        "STEAM ID":337650,
+        "NAME":"Soft Body",
+        "REQUIRED AGE":0,
+        "PRICE":4.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":"2026-10-05T00:00:00.000"
+    },
+    {
+        "STEAM ID":337630,
+        "NAME":"Bermuda",
+        "REQUIRED AGE":0,
+        "PRICE":0,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":"2026-10-05T00:00:00.000"
+    },
+    {
+        "STEAM ID":337520,
+        "NAME":"Palm Kingdoms 3",
+        "REQUIRED AGE":0,
+        "PRICE":"",
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":"2026-10-05T00:00:00.000"
+    },
+    {
+        "STEAM ID":337490,
+        "NAME":"Four Sided Fantasy",
+        "REQUIRED AGE":0,
+        "PRICE":0.99,
+        "HAS DISCOUNT":true,
+        "DISCOUNT":"SPECIAL PROMOTION! Offer ends 8 October",
+        "TODAY DATE":"2026-10-05T00:00:00.000"
+    },
+    {
+        "STEAM ID":337480,
+        "NAME":"Zombie Vikings",
+        "REQUIRED AGE":0,
+        "PRICE":1.19,
+        "HAS DISCOUNT":true,
+        "DISCOUNT":"SPECIAL PROMOTION! Offer ends 8 October",
+        "TODAY DATE":"2026-10-05T00:00:00.000"
+    },
+    {
+        "STEAM ID":337460,
+        "NAME":"18 Wheels of Steel: Pedal to the Metal",
+        "REQUIRED AGE":0,
+        "PRICE":3.49,
+        "HAS DISCOUNT":true,
+        "DISCOUNT":"SPECIAL PROMOTION! Offer ends 8 October",
+        "TODAY DATE":"2026-10-05T00:00:00.000"
+    },
+    {
+        "STEAM ID":337450,
+        "NAME":"Dream Tale",
+        "REQUIRED AGE":0,
+        "PRICE":1.49,
+        "HAS DISCOUNT":true,
+        "DISCOUNT":"SPECIAL PROMOTION! Offer ends 8 October",
+        "TODAY DATE":"2026-10-05T00:00:00.000"
+    },
+    {
+        "STEAM ID":337420,
+        "NAME":"Final Dusk",
+        "REQUIRED AGE":0,
+        "PRICE":0,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":"2026-10-05T00:00:00.000"
+    },
+    {
+        "STEAM ID":337410,
+        "NAME":"Karos",
+        "REQUIRED AGE":0,
+        "PRICE":"Free to Play",
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":"2026-10-05T00:00:00.000"
+    },
+    {
+        "STEAM ID":337360,
+        "NAME":"Dead Island Retro Revenge",
+        "REQUIRED AGE":17,
+        "PRICE":0.99,
+        "HAS DISCOUNT":true,
+        "DISCOUNT":"SPECIAL PROMOTION! Offer ends 8 October",
+        "TODAY DATE":"2026-10-05T00:00:00.000"
+    },
+    {
+        "STEAM ID":337350,
+        "NAME":"Flywrench",
+        "REQUIRED AGE":0,
+        "PRICE":3.14,
+        "HAS DISCOUNT":true,
+        "DISCOUNT":"SPECIAL PROMOTION! Offer ends 8 October",
+        "TODAY DATE":"2026-10-05T00:00:00.000"
+    },
+    {
+        "STEAM ID":337340,
+        "NAME":"Finding Paradise",
+        "REQUIRED AGE":0,
+        "PRICE":2.49,
+        "HAS DISCOUNT":true,
+        "DISCOUNT":"SPECIAL PROMOTION! Offer ends 8 October",
+        "TODAY DATE":"2026-10-05T00:00:00.000"
+    },
+    {
+        "STEAM ID":337320,
+        "NAME":"Paint the Town Red",
+        "REQUIRED AGE":0,
+        "PRICE":9.99,
+        "HAS DISCOUNT":true,
+        "DISCOUNT":"SPECIAL PROMOTION! Offer ends 8 October",
+        "TODAY DATE":"2026-10-05T00:00:00.000"
+    },
+    {
+        "STEAM ID":337290,
+        "NAME":"Still Not Dead",
+        "REQUIRED AGE":0,
+        "PRICE":4.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":"2026-10-05T00:00:00.000"
+    },
+    {
+        "STEAM ID":337280,
+        "NAME":"Planetship",
+        "REQUIRED AGE":0,
+        "PRICE":8.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":"2026-10-05T00:00:00.000"
+    },
+    {
+        "STEAM ID":337270,
+        "NAME":"Ostrich Island",
+        "REQUIRED AGE":0,
+        "PRICE":0.84,
+        "HAS DISCOUNT":true,
+        "DISCOUNT":"SPECIAL PROMOTION! Offer ends 8 October",
+        "TODAY DATE":"2026-10-05T00:00:00.000"
+    },
+    {
+        "STEAM ID":337220,
+        "NAME":"Guild Commander",
+        "REQUIRED AGE":0,
+        "PRICE":2.49,
+        "HAS DISCOUNT":true,
+        "DISCOUNT":"SPECIAL PROMOTION! Offer ends 8 October",
+        "TODAY DATE":"2026-10-05T00:00:00.000"
+    },
+    {
+        "STEAM ID":337210,
+        "NAME":"Royal Bounty HD",
+        "REQUIRED AGE":0,
+        "PRICE":2.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":"2026-10-05T00:00:00.000"
+    },
+    {
+        "STEAM ID":337180,
+        "NAME":"Velocity 2X",
+        "REQUIRED AGE":0,
+        "PRICE":0,
+        "HAS DISCOUNT":true,
+        "DISCOUNT":"SPECIAL PROMOTION! Offer ends 8 October",
+        "TODAY DATE":"2026-10-05T00:00:00.000"
+    },
+    {
+        "STEAM ID":337150,
+        "NAME":"Sentinels of the Multiverse",
+        "REQUIRED AGE":0,
+        "PRICE":1.99,
+        "HAS DISCOUNT":true,
+        "DISCOUNT":"SPECIAL PROMOTION! Offer ends 8 October",
+        "TODAY DATE":"2026-10-05T00:00:00.000"
+    },
+    {
+        "STEAM ID":337110,
+        "NAME":"Bard to the Future",
+        "REQUIRED AGE":0,
+        "PRICE":0,
+        "HAS DISCOUNT":true,
+        "DISCOUNT":"SPECIAL PROMOTION! Offer ends 8 October",
+        "TODAY DATE":"2026-10-05T00:00:00.000"
+    },
+    {
+        "STEAM ID":337070,
+        "NAME":"Dimmdrive :: Gaming Ramdrive @ 10,000+ MB\/s",
+        "REQUIRED AGE":0,
+        "PRICE":0,
+        "HAS DISCOUNT":true,
+        "DISCOUNT":"SPECIAL PROMOTION! Offer ends 8 October",
+        "TODAY DATE":"2026-10-05T00:00:00.000"
+    },
+    {
+        "STEAM ID":337040,
+        "NAME":"Deadnaut",
+        "REQUIRED AGE":0,
+        "PRICE":4.99,
+        "HAS DISCOUNT":true,
+        "DISCOUNT":"SPECIAL PROMOTION! Offer ends 8 October",
+        "TODAY DATE":"2026-10-05T00:00:00.000"
+    },
+    {
+        "STEAM ID":337000,
+        "NAME":"Deus Ex: Mankind Divided",
+        "REQUIRED AGE":17,
+        "PRICE":2.99,
+        "HAS DISCOUNT":true,
+        "DISCOUNT":"SPECIAL PROMOTION! Offer ends 8 October",
+        "TODAY DATE":"2026-10-05T00:00:00.000"
+    },
+    {
+        "STEAM ID":507520,
+        "NAME":"Zzzz-Zzzz-Zzzz",
+        "REQUIRED AGE":0,
+        "PRICE":"Free To Play",
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":"2026-09-24T00:00:00.000"
+    },
+    {
+        "STEAM ID":507400,
+        "NAME":"Vindictive Drive",
+        "REQUIRED AGE":0,
+        "PRICE":2.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":"2026-09-24T00:00:00.000"
+    },
+    {
+        "STEAM ID":507360,
+        "NAME":"The Wizard's Lair",
+        "REQUIRED AGE":0,
+        "PRICE":0,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":"2026-09-24T00:00:00.000"
+    },
+    {
+        "STEAM ID":507340,
+        "NAME":"Strike Squadron: Caracará",
+        "REQUIRED AGE":0,
+        "PRICE":2.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":"2026-09-24T00:00:00.000"
+    },
+    {
+        "STEAM ID":507300,
+        "NAME":"Club Manager 2017",
+        "REQUIRED AGE":0,
+        "PRICE":0,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":"2026-09-24T00:00:00.000"
+    },
+    {
+        "STEAM ID":507270,
+        "NAME":"Lily´s Epic Quest",
+        "REQUIRED AGE":0,
+        "PRICE":6.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":"2026-09-24T00:00:00.000"
+    },
+    {
+        "STEAM ID":507210,
+        "NAME":"The Wire",
+        "REQUIRED AGE":0,
+        "PRICE":"Free",
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":"2026-09-24T00:00:00.000"
+    },
+    {
+        "STEAM ID":507140,
+        "NAME":"Tesla's Tower: The Wardenclyffe Mystery",
+        "REQUIRED AGE":0,
+        "PRICE":9.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":"2026-09-24T00:00:00.000"
+    },
+    {
+        "STEAM ID":507120,
+        "NAME":"The Superfluous",
+        "REQUIRED AGE":0,
+        "PRICE":4.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":"2026-09-24T00:00:00.000"
+    },
+    {
+        "STEAM ID":507080,
+        "NAME":"Baseball Mogul Diamond",
+        "REQUIRED AGE":0,
+        "PRICE":11.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":"2026-09-24T00:00:00.000"
+    },
+    {
+        "STEAM ID":507050,
+        "NAME":"DOGOS",
+        "REQUIRED AGE":0,
+        "PRICE":11.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":"2026-09-24T00:00:00.000"
+    },
+    {
+        "STEAM ID":507010,
+        "NAME":"Mr.President!",
+        "REQUIRED AGE":0,
+        "PRICE":9.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":"2026-09-24T00:00:00.000"
+    },
+    {
+        "STEAM ID":438000,
+        "NAME":"PIXELMAN",
+        "REQUIRED AGE":0,
+        "PRICE":1.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":"2026-09-24T00:00:00.000"
+    },
+    {
+        "STEAM ID":437870,
+        "NAME":"Earth Space Colonies",
+        "REQUIRED AGE":0,
+        "PRICE":9.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":"2026-09-24T00:00:00.000"
+    },
+    {
+        "STEAM ID":437740,
+        "NAME":"Inside: Before Birth",
+        "REQUIRED AGE":0,
+        "PRICE":3.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":"2026-09-24T00:00:00.000"
+    },
+    {
+        "STEAM ID":437730,
+        "NAME":"Roadclub: League Racing",
+        "REQUIRED AGE":0,
+        "PRICE":"Free To Play",
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":"2026-09-24T00:00:00.000"
+    },
+    {
+        "STEAM ID":437710,
+        "NAME":"Magic Flute",
+        "REQUIRED AGE":0,
+        "PRICE":4.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":"2026-09-24T00:00:00.000"
+    },
+    {
+        "STEAM ID":437690,
+        "NAME":"Venture Kid",
+        "REQUIRED AGE":0,
+        "PRICE":1.99,
+        "HAS DISCOUNT":true,
+        "DISCOUNT":"SPECIAL PROMOTION! Offer ends 27 September",
+        "TODAY DATE":"2026-09-24T00:00:00.000"
+    },
+    {
+        "STEAM ID":437550,
+        "NAME":"Melon Simulator™",
+        "REQUIRED AGE":0,
+        "PRICE":4.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":"2026-09-24T00:00:00.000"
+    },
+    {
+        "STEAM ID":437420,
+        "NAME":"The Secret Order 3: Ancient Times",
+        "REQUIRED AGE":0,
+        "PRICE":14.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":"2026-09-24T00:00:00.000"
+    },
+    {
+        "STEAM ID":437400,
+        "NAME":"SOLRAVEN",
+        "REQUIRED AGE":0,
+        "PRICE":0,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":"2026-09-24T00:00:00.000"
+    },
+    {
+        "STEAM ID":437380,
+        "NAME":"Vanquish: The Adventures of Lady Exton",
+        "REQUIRED AGE":0,
+        "PRICE":2.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":"2026-09-24T00:00:00.000"
+    },
+    {
+        "STEAM ID":437350,
+        "NAME":"Call of Duty: Black Ops III - Multiplayer Starter Pack",
+        "REQUIRED AGE":17,
+        "PRICE":0,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":"2026-09-24T00:00:00.000"
+    },
+    {
+        "STEAM ID":437340,
+        "NAME":"Toys of War",
+        "REQUIRED AGE":0,
+        "PRICE":9.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":"2026-09-24T00:00:00.000"
+    },
+    {
+        "STEAM ID":437210,
+        "NAME":"The Hunt",
+        "REQUIRED AGE":0,
+        "PRICE":0,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":"2026-09-24T00:00:00.000"
+    },
+    {
+        "STEAM ID":437180,
+        "NAME":"Chill the Piro",
+        "REQUIRED AGE":0,
+        "PRICE":1.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":"2026-09-24T00:00:00.000"
+    },
+    {
+        "STEAM ID":437170,
+        "NAME":"The Amazing Adventures of Ash - Afterparty",
+        "REQUIRED AGE":0,
+        "PRICE":0,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":"2026-09-24T00:00:00.000"
+    },
+    {
+        "STEAM ID":437090,
+        "NAME":"Wobbly Jungle",
+        "REQUIRED AGE":0,
+        "PRICE":1.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":"2026-09-24T00:00:00.000"
+    },
+    {
+        "STEAM ID":437060,
+        "NAME":"MOAI 3: Trade Mission Collector's Edition",
+        "REQUIRED AGE":0,
+        "PRICE":9.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":"2026-09-24T00:00:00.000"
+    },
+    {
+        "STEAM ID":437030,
+        "NAME":"MEMENTO",
+        "REQUIRED AGE":0,
+        "PRICE":0,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":"2026-09-24T00:00:00.000"
+    },
+    {
+        "STEAM ID":437020,
+        "NAME":"WITCH-BOT MEGLILO",
+        "REQUIRED AGE":0,
+        "PRICE":5.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":"2026-09-24T00:00:00.000"
+    },
+    {
+        "STEAM ID":437010,
+        "NAME":"Space Battle Core",
+        "REQUIRED AGE":0,
+        "PRICE":"",
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":"2026-09-24T00:00:00.000"
+    },
+    {
+        "STEAM ID":437000,
+        "NAME":"GUILTY GEAR 2 -OVERTURE-",
+        "REQUIRED AGE":0,
+        "PRICE":19.99,
+        "HAS DISCOUNT":false,
+        "DISCOUNT":null,
+        "TODAY DATE":"2026-09-24T00:00:00.000"
+    },
+    {
         "STEAM ID":419990,
         "NAME":"Ganbare! Super Strikers",
         "REQUIRED AGE":0,
         "PRICE":9.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":"2026-09-24"
+        "TODAY DATE":"2026-09-24T00:00:00.000"
     },
     {
         "STEAM ID":419810,
@@ -15,7 +906,7 @@
         "PRICE":4.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":"2026-09-24"
+        "TODAY DATE":"2026-09-24T00:00:00.000"
     },
     {
         "STEAM ID":419710,
@@ -24,7 +915,7 @@
         "PRICE":14.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":"2026-09-24"
+        "TODAY DATE":"2026-09-24T00:00:00.000"
     },
     {
         "STEAM ID":419590,
@@ -33,7 +924,7 @@
         "PRICE":0,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":"2026-09-24"
+        "TODAY DATE":"2026-09-24T00:00:00.000"
     },
     {
         "STEAM ID":419520,
@@ -42,7 +933,7 @@
         "PRICE":0,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":"2026-09-24"
+        "TODAY DATE":"2026-09-24T00:00:00.000"
     },
     {
         "STEAM ID":419500,
@@ -51,7 +942,7 @@
         "PRICE":0,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":"2026-09-24"
+        "TODAY DATE":"2026-09-24T00:00:00.000"
     },
     {
         "STEAM ID":419460,
@@ -60,7 +951,7 @@
         "PRICE":9.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":"2026-09-24"
+        "TODAY DATE":"2026-09-24T00:00:00.000"
     },
     {
         "STEAM ID":419450,
@@ -69,7 +960,7 @@
         "PRICE":19.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":"2026-09-24"
+        "TODAY DATE":"2026-09-24T00:00:00.000"
     },
     {
         "STEAM ID":419080,
@@ -78,7 +969,7 @@
         "PRICE":9.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":"2026-09-24"
+        "TODAY DATE":"2026-09-24T00:00:00.000"
     },
     {
         "STEAM ID":419000,
@@ -87,7 +978,7 @@
         "PRICE":0,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":"2026-09-24"
+        "TODAY DATE":"2026-09-24T00:00:00.000"
     },
     {
         "STEAM ID":422970,
@@ -96,7 +987,7 @@
         "PRICE":9.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790208000000
+        "TODAY DATE":"2026-09-24T00:00:00.000"
     },
     {
         "STEAM ID":422940,
@@ -105,7 +996,7 @@
         "PRICE":0,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790208000000
+        "TODAY DATE":"2026-09-24T00:00:00.000"
     },
     {
         "STEAM ID":422920,
@@ -114,7 +1005,7 @@
         "PRICE":4.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790208000000
+        "TODAY DATE":"2026-09-24T00:00:00.000"
     },
     {
         "STEAM ID":422910,
@@ -123,7 +1014,7 @@
         "PRICE":4.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790208000000
+        "TODAY DATE":"2026-09-24T00:00:00.000"
     },
     {
         "STEAM ID":422890,
@@ -132,7 +1023,7 @@
         "PRICE":0,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790208000000
+        "TODAY DATE":"2026-09-24T00:00:00.000"
     },
     {
         "STEAM ID":422860,
@@ -141,7 +1032,7 @@
         "PRICE":19.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790208000000
+        "TODAY DATE":"2026-09-24T00:00:00.000"
     },
     {
         "STEAM ID":422760,
@@ -150,7 +1041,7 @@
         "PRICE":9.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790208000000
+        "TODAY DATE":"2026-09-24T00:00:00.000"
     },
     {
         "STEAM ID":422650,
@@ -159,7 +1050,7 @@
         "PRICE":9.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790208000000
+        "TODAY DATE":"2026-09-24T00:00:00.000"
     },
     {
         "STEAM ID":422640,
@@ -168,7 +1059,7 @@
         "PRICE":14.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790208000000
+        "TODAY DATE":"2026-09-24T00:00:00.000"
     },
     {
         "STEAM ID":422630,
@@ -177,7 +1068,7 @@
         "PRICE":"Free To Play",
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790208000000
+        "TODAY DATE":"2026-09-24T00:00:00.000"
     },
     {
         "STEAM ID":422590,
@@ -186,7 +1077,7 @@
         "PRICE":0,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790208000000
+        "TODAY DATE":"2026-09-24T00:00:00.000"
     },
     {
         "STEAM ID":422500,
@@ -195,7 +1086,7 @@
         "PRICE":"Free To Play",
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790208000000
+        "TODAY DATE":"2026-09-24T00:00:00.000"
     },
     {
         "STEAM ID":422420,
@@ -204,7 +1095,7 @@
         "PRICE":0,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790208000000
+        "TODAY DATE":"2026-09-24T00:00:00.000"
     },
     {
         "STEAM ID":422300,
@@ -213,7 +1104,7 @@
         "PRICE":0,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790208000000
+        "TODAY DATE":"2026-09-24T00:00:00.000"
     },
     {
         "STEAM ID":422270,
@@ -222,7 +1113,7 @@
         "PRICE":0,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790208000000
+        "TODAY DATE":"2026-09-24T00:00:00.000"
     },
     {
         "STEAM ID":422210,
@@ -231,7 +1122,7 @@
         "PRICE":12.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790208000000
+        "TODAY DATE":"2026-09-24T00:00:00.000"
     },
     {
         "STEAM ID":422140,
@@ -240,7 +1131,7 @@
         "PRICE":19.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790208000000
+        "TODAY DATE":"2026-09-24T00:00:00.000"
     },
     {
         "STEAM ID":422130,
@@ -249,7 +1140,7 @@
         "PRICE":19.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790208000000
+        "TODAY DATE":"2026-09-24T00:00:00.000"
     },
     {
         "STEAM ID":422020,
@@ -258,7 +1149,7 @@
         "PRICE":2.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790208000000
+        "TODAY DATE":"2026-09-24T00:00:00.000"
     },
     {
         "STEAM ID":422010,
@@ -267,7 +1158,7 @@
         "PRICE":0,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790208000000
+        "TODAY DATE":"2026-09-24T00:00:00.000"
     },
     {
         "STEAM ID":469990,
@@ -276,7 +1167,7 @@
         "PRICE":"",
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":469980,
@@ -285,7 +1176,7 @@
         "PRICE":39.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":469930,
@@ -294,7 +1185,7 @@
         "PRICE":0,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":469920,
@@ -303,7 +1194,7 @@
         "PRICE":18.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":469900,
@@ -312,7 +1203,7 @@
         "PRICE":0.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":469890,
@@ -321,7 +1212,7 @@
         "PRICE":0.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":469830,
@@ -330,7 +1221,7 @@
         "PRICE":0,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":469820,
@@ -339,7 +1230,7 @@
         "PRICE":6.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":469800,
@@ -348,7 +1239,7 @@
         "PRICE":14.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":469790,
@@ -357,7 +1248,7 @@
         "PRICE":9.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":469730,
@@ -366,7 +1257,7 @@
         "PRICE":0.99,
         "HAS DISCOUNT":true,
         "DISCOUNT":"SPECIAL PROMOTION! Offer ends 1 October",
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":469720,
@@ -375,7 +1266,7 @@
         "PRICE":14.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":469710,
@@ -384,7 +1275,7 @@
         "PRICE":4.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":469650,
@@ -393,7 +1284,7 @@
         "PRICE":0,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":469610,
@@ -402,7 +1293,7 @@
         "PRICE":29.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":469600,
@@ -411,7 +1302,7 @@
         "PRICE":0,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":469550,
@@ -420,7 +1311,7 @@
         "PRICE":1.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":426000,
@@ -429,7 +1320,7 @@
         "PRICE":6.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":425990,
@@ -438,7 +1329,7 @@
         "PRICE":5.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":425900,
@@ -447,7 +1338,7 @@
         "PRICE":9.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":425870,
@@ -456,7 +1347,7 @@
         "PRICE":12.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":425860,
@@ -465,7 +1356,7 @@
         "PRICE":4.49,
         "HAS DISCOUNT":true,
         "DISCOUNT":"WEEK LONG DEAL! Offer ends 28 September",
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":425820,
@@ -474,7 +1365,7 @@
         "PRICE":7.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":425770,
@@ -483,7 +1374,7 @@
         "PRICE":0.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":425760,
@@ -492,7 +1383,7 @@
         "PRICE":1.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":425720,
@@ -501,7 +1392,7 @@
         "PRICE":0,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":425670,
@@ -510,7 +1401,7 @@
         "PRICE":0,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":425650,
@@ -519,7 +1410,7 @@
         "PRICE":9.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":425600,
@@ -528,7 +1419,7 @@
         "PRICE":0,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":425580,
@@ -537,7 +1428,7 @@
         "PRICE":4.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":425560,
@@ -546,7 +1437,7 @@
         "PRICE":0,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":425460,
@@ -555,7 +1446,7 @@
         "PRICE":9.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":425450,
@@ -564,7 +1455,7 @@
         "PRICE":9.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":425410,
@@ -573,7 +1464,7 @@
         "PRICE":14.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":425400,
@@ -582,7 +1473,7 @@
         "PRICE":9.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":425340,
@@ -591,7 +1482,7 @@
         "PRICE":4.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":425310,
@@ -600,7 +1491,7 @@
         "PRICE":0,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":425300,
@@ -609,7 +1500,7 @@
         "PRICE":6.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":425260,
@@ -618,7 +1509,7 @@
         "PRICE":"Free To Play",
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":425240,
@@ -627,7 +1518,7 @@
         "PRICE":12.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":425230,
@@ -636,7 +1527,7 @@
         "PRICE":4.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":425220,
@@ -645,7 +1536,7 @@
         "PRICE":8.99,
         "HAS DISCOUNT":true,
         "DISCOUNT":"SPECIAL PROMOTION! Offer ends 1 October",
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":425210,
@@ -654,7 +1545,7 @@
         "PRICE":16.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":425160,
@@ -663,7 +1554,7 @@
         "PRICE":4.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":425150,
@@ -672,7 +1563,7 @@
         "PRICE":7.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":425070,
@@ -681,7 +1572,7 @@
         "PRICE":1.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":425040,
@@ -690,7 +1581,7 @@
         "PRICE":0,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":425010,
@@ -699,7 +1590,7 @@
         "PRICE":4.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":333990,
@@ -708,7 +1599,7 @@
         "PRICE":9.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":333980,
@@ -717,7 +1608,7 @@
         "PRICE":19.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":333970,
@@ -726,7 +1617,7 @@
         "PRICE":7.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":333950,
@@ -735,7 +1626,7 @@
         "PRICE":9.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":333930,
@@ -744,7 +1635,7 @@
         "PRICE":"Free To Play",
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":333880,
@@ -753,7 +1644,7 @@
         "PRICE":14.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":333870,
@@ -762,7 +1653,7 @@
         "PRICE":4.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":333760,
@@ -771,7 +1662,7 @@
         "PRICE":3.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":333730,
@@ -780,7 +1671,7 @@
         "PRICE":3.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":333690,
@@ -789,7 +1680,7 @@
         "PRICE":3.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":333660,
@@ -798,7 +1689,7 @@
         "PRICE":0,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":333650,
@@ -807,7 +1698,7 @@
         "PRICE":13.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":333640,
@@ -816,7 +1707,7 @@
         "PRICE":29.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":333600,
@@ -825,7 +1716,7 @@
         "PRICE":9.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":333580,
@@ -834,7 +1725,7 @@
         "PRICE":1.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":333540,
@@ -843,7 +1734,7 @@
         "PRICE":2.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":333510,
@@ -852,7 +1743,7 @@
         "PRICE":13.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":333490,
@@ -861,7 +1752,7 @@
         "PRICE":0,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":333430,
@@ -870,7 +1761,7 @@
         "PRICE":7.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":333420,
@@ -879,7 +1770,7 @@
         "PRICE":19.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":333390,
@@ -888,7 +1779,7 @@
         "PRICE":6.24,
         "HAS DISCOUNT":true,
         "DISCOUNT":"WEEK LONG DEAL! Offer ends 28 September",
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":333380,
@@ -897,7 +1788,7 @@
         "PRICE":0,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":333350,
@@ -906,7 +1797,7 @@
         "PRICE":29.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":333340,
@@ -915,7 +1806,7 @@
         "PRICE":11.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":333330,
@@ -924,7 +1815,7 @@
         "PRICE":4.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":333300,
@@ -933,7 +1824,7 @@
         "PRICE":14.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":333290,
@@ -942,7 +1833,7 @@
         "PRICE":3.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":333260,
@@ -951,7 +1842,7 @@
         "PRICE":5.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":333250,
@@ -960,7 +1851,7 @@
         "PRICE":7.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":333220,
@@ -969,7 +1860,7 @@
         "PRICE":0,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":333210,
@@ -978,7 +1869,7 @@
         "PRICE":3.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":333130,
@@ -987,7 +1878,7 @@
         "PRICE":9.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":333120,
@@ -996,7 +1887,7 @@
         "PRICE":1.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":333100,
@@ -1005,7 +1896,7 @@
         "PRICE":17.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":549000,
@@ -1014,7 +1905,7 @@
         "PRICE":9.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":548900,
@@ -1023,7 +1914,7 @@
         "PRICE":14.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":548890,
@@ -1032,7 +1923,7 @@
         "PRICE":14.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":548860,
@@ -1041,7 +1932,7 @@
         "PRICE":14.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":548840,
@@ -1050,7 +1941,7 @@
         "PRICE":19.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":548810,
@@ -1059,7 +1950,7 @@
         "PRICE":19.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":548800,
@@ -1068,7 +1959,7 @@
         "PRICE":2.0,
         "HAS DISCOUNT":true,
         "DISCOUNT":"SPECIAL PROMOTION! Offer ends 24 September",
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":548790,
@@ -1077,7 +1968,7 @@
         "PRICE":4.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":548760,
@@ -1086,7 +1977,7 @@
         "PRICE":0,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":548740,
@@ -1095,7 +1986,7 @@
         "PRICE":9.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":548720,
@@ -1104,7 +1995,7 @@
         "PRICE":4.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":548710,
@@ -1113,7 +2004,7 @@
         "PRICE":0,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":548680,
@@ -1122,7 +2013,7 @@
         "PRICE":9.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":548650,
@@ -1131,7 +2022,7 @@
         "PRICE":14.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":548570,
@@ -1140,7 +2031,7 @@
         "PRICE":39.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":548560,
@@ -1149,7 +2040,7 @@
         "PRICE":4.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":548500,
@@ -1158,7 +2049,7 @@
         "PRICE":0.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":548480,
@@ -1167,7 +2058,7 @@
         "PRICE":0.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":548470,
@@ -1176,7 +2067,7 @@
         "PRICE":19.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":548450,
@@ -1185,7 +2076,7 @@
         "PRICE":0,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":548430,
@@ -1194,7 +2085,7 @@
         "PRICE":29.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":548390,
@@ -1203,7 +2094,7 @@
         "PRICE":5.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":548370,
@@ -1212,7 +2103,7 @@
         "PRICE":9.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":548360,
@@ -1221,7 +2112,7 @@
         "PRICE":4.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":548350,
@@ -1230,7 +2121,7 @@
         "PRICE":0,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":548340,
@@ -1239,7 +2130,7 @@
         "PRICE":9.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":548330,
@@ -1248,7 +2139,7 @@
         "PRICE":1.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":548320,
@@ -1257,7 +2148,7 @@
         "PRICE":4.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":548290,
@@ -1266,7 +2157,7 @@
         "PRICE":0,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":548280,
@@ -1275,7 +2166,7 @@
         "PRICE":"Free To Play",
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":548260,
@@ -1284,7 +2175,7 @@
         "PRICE":0,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":548240,
@@ -1293,7 +2184,7 @@
         "PRICE":8.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":548230,
@@ -1302,7 +2193,7 @@
         "PRICE":1.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":548220,
@@ -1311,7 +2202,7 @@
         "PRICE":0,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":548170,
@@ -1320,7 +2211,7 @@
         "PRICE":7.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":548130,
@@ -1329,7 +2220,7 @@
         "PRICE":1.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":548110,
@@ -1338,7 +2229,7 @@
         "PRICE":6.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":548090,
@@ -1347,7 +2238,7 @@
         "PRICE":14.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":548080,
@@ -1356,7 +2247,7 @@
         "PRICE":6.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":548050,
@@ -1365,7 +2256,7 @@
         "PRICE":0,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":548020,
@@ -1374,7 +2265,7 @@
         "PRICE":4.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":548010,
@@ -1383,7 +2274,7 @@
         "PRICE":0,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":395960,
@@ -1392,7 +2283,7 @@
         "PRICE":54.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":395940,
@@ -1401,7 +2292,7 @@
         "PRICE":8.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":395930,
@@ -1410,7 +2301,7 @@
         "PRICE":4.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":395920,
@@ -1419,7 +2310,7 @@
         "PRICE":0,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":395910,
@@ -1428,7 +2319,7 @@
         "PRICE":2.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":395900,
@@ -1437,7 +2328,7 @@
         "PRICE":3.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":395890,
@@ -1446,7 +2337,7 @@
         "PRICE":0,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":395880,
@@ -1455,7 +2346,7 @@
         "PRICE":4.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":395860,
@@ -1464,7 +2355,7 @@
         "PRICE":9.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":395850,
@@ -1473,7 +2364,7 @@
         "PRICE":14.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":395830,
@@ -1482,7 +2373,7 @@
         "PRICE":"",
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":395760,
@@ -1491,7 +2382,7 @@
         "PRICE":2.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":395640,
@@ -1500,7 +2391,7 @@
         "PRICE":0,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":395620,
@@ -1509,7 +2400,7 @@
         "PRICE":19.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":395600,
@@ -1518,7 +2409,7 @@
         "PRICE":6.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":395580,
@@ -1527,7 +2418,7 @@
         "PRICE":6.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":395570,
@@ -1536,7 +2427,7 @@
         "PRICE":14.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":395560,
@@ -1545,7 +2436,7 @@
         "PRICE":14.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":395550,
@@ -1554,7 +2445,7 @@
         "PRICE":4.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":395520,
@@ -1563,7 +2454,7 @@
         "PRICE":"Free To Play",
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":395500,
@@ -1572,7 +2463,7 @@
         "PRICE":1.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":395480,
@@ -1581,7 +2472,7 @@
         "PRICE":8.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":395470,
@@ -1590,7 +2481,7 @@
         "PRICE":6.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":395420,
@@ -1599,7 +2490,7 @@
         "PRICE":8.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":395400,
@@ -1608,7 +2499,7 @@
         "PRICE":9.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":395380,
@@ -1617,7 +2508,7 @@
         "PRICE":0.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":395370,
@@ -1626,7 +2517,7 @@
         "PRICE":"",
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":395350,
@@ -1635,7 +2526,7 @@
         "PRICE":0,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":395300,
@@ -1644,7 +2535,7 @@
         "PRICE":5.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":395270,
@@ -1653,7 +2544,7 @@
         "PRICE":1.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":395250,
@@ -1662,7 +2553,7 @@
         "PRICE":0.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":395200,
@@ -1671,7 +2562,7 @@
         "PRICE":9.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":395190,
@@ -1680,7 +2571,7 @@
         "PRICE":0,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":395170,
@@ -1689,7 +2580,7 @@
         "PRICE":4.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":395160,
@@ -1698,7 +2589,7 @@
         "PRICE":9.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":395150,
@@ -1707,7 +2598,7 @@
         "PRICE":0,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":395140,
@@ -1716,7 +2607,7 @@
         "PRICE":7.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":395100,
@@ -1725,7 +2616,7 @@
         "PRICE":3.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":500980,
@@ -1734,7 +2625,7 @@
         "PRICE":"Free",
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":500940,
@@ -1743,7 +2634,7 @@
         "PRICE":2.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":500920,
@@ -1752,7 +2643,7 @@
         "PRICE":9.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":500880,
@@ -1761,7 +2652,7 @@
         "PRICE":0,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":500870,
@@ -1770,7 +2661,7 @@
         "PRICE":6.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":500810,
@@ -1779,7 +2670,7 @@
         "PRICE":5.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":500800,
@@ -1788,7 +2679,7 @@
         "PRICE":4.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":500790,
@@ -1797,7 +2688,7 @@
         "PRICE":9.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":500760,
@@ -1806,7 +2697,7 @@
         "PRICE":4.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":500750,
@@ -1815,7 +2706,7 @@
         "PRICE":"Free To Play",
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":500740,
@@ -1824,7 +2715,7 @@
         "PRICE":"",
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":500710,
@@ -1833,7 +2724,7 @@
         "PRICE":"Free To Play",
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":500690,
@@ -1842,7 +2733,7 @@
         "PRICE":"Free To Play",
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":500680,
@@ -1851,7 +2742,7 @@
         "PRICE":19.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":500670,
@@ -1860,7 +2751,7 @@
         "PRICE":7.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":500660,
@@ -1869,7 +2760,7 @@
         "PRICE":"Free",
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":500590,
@@ -1878,7 +2769,7 @@
         "PRICE":0.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":500580,
@@ -1887,7 +2778,7 @@
         "PRICE":0.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":500570,
@@ -1896,7 +2787,7 @@
         "PRICE":1.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":500550,
@@ -1905,7 +2796,7 @@
         "PRICE":2.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":500500,
@@ -1914,7 +2805,7 @@
         "PRICE":7.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":500480,
@@ -1923,7 +2814,7 @@
         "PRICE":9.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":500470,
@@ -1932,7 +2823,7 @@
         "PRICE":9.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":476930,
@@ -1941,7 +2832,7 @@
         "PRICE":0,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":476920,
@@ -1950,7 +2841,7 @@
         "PRICE":6.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":476710,
@@ -1959,7 +2850,7 @@
         "PRICE":1.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":476700,
@@ -1968,7 +2859,7 @@
         "PRICE":14.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":476680,
@@ -1977,7 +2868,7 @@
         "PRICE":9.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":476670,
@@ -1986,7 +2877,7 @@
         "PRICE":9.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":476650,
@@ -1995,7 +2886,7 @@
         "PRICE":19.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":476600,
@@ -2004,7 +2895,7 @@
         "PRICE":59.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":476540,
@@ -2013,7 +2904,7 @@
         "PRICE":"Free",
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":476530,
@@ -2022,7 +2913,7 @@
         "PRICE":19.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":476510,
@@ -2031,7 +2922,7 @@
         "PRICE":6.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":476490,
@@ -2040,7 +2931,7 @@
         "PRICE":4.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":476480,
@@ -2049,7 +2940,7 @@
         "PRICE":0,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":476460,
@@ -2058,7 +2949,7 @@
         "PRICE":"Free",
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":476450,
@@ -2067,7 +2958,7 @@
         "PRICE":2.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":476430,
@@ -2076,7 +2967,7 @@
         "PRICE":7.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":476420,
@@ -2085,7 +2976,7 @@
         "PRICE":24.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":476410,
@@ -2094,7 +2985,7 @@
         "PRICE":9.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":476370,
@@ -2103,7 +2994,7 @@
         "PRICE":6.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":476360,
@@ -2112,7 +3003,7 @@
         "PRICE":0,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":476240,
@@ -2121,7 +3012,7 @@
         "PRICE":0,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":476030,
@@ -2130,7 +3021,7 @@
         "PRICE":3.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":476020,
@@ -2139,7 +3030,7 @@
         "PRICE":8.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":476000,
@@ -2148,7 +3039,7 @@
         "PRICE":0,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":465000,
@@ -2157,7 +3048,7 @@
         "PRICE":5.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":464960,
@@ -2166,7 +3057,7 @@
         "PRICE":2.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":464950,
@@ -2175,7 +3066,7 @@
         "PRICE":14.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":464940,
@@ -2184,7 +3075,7 @@
         "PRICE":"",
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":464920,
@@ -2193,7 +3084,7 @@
         "PRICE":0,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":464900,
@@ -2202,7 +3093,7 @@
         "PRICE":9.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":464880,
@@ -2211,7 +3102,7 @@
         "PRICE":24.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":464850,
@@ -2220,7 +3111,7 @@
         "PRICE":29.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":464800,
@@ -2229,7 +3120,7 @@
         "PRICE":"Free To Play",
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":464780,
@@ -2238,7 +3129,7 @@
         "PRICE":0,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":464740,
@@ -2247,7 +3138,7 @@
         "PRICE":9.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":464700,
@@ -2256,7 +3147,7 @@
         "PRICE":"Free",
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":464690,
@@ -2265,7 +3156,7 @@
         "PRICE":6.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":464670,
@@ -2274,7 +3165,7 @@
         "PRICE":0,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":464650,
@@ -2283,7 +3174,7 @@
         "PRICE":14.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":464630,
@@ -2292,7 +3183,7 @@
         "PRICE":6.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":464620,
@@ -2301,7 +3192,7 @@
         "PRICE":14.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":464610,
@@ -2310,7 +3201,7 @@
         "PRICE":11.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":464540,
@@ -2319,7 +3210,7 @@
         "PRICE":"",
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":464530,
@@ -2328,7 +3219,7 @@
         "PRICE":0.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":464500,
@@ -2337,7 +3228,7 @@
         "PRICE":8.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":464490,
@@ -2346,7 +3237,7 @@
         "PRICE":8.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":464470,
@@ -2355,7 +3246,7 @@
         "PRICE":0,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":464450,
@@ -2364,7 +3255,7 @@
         "PRICE":29.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":464440,
@@ -2373,7 +3264,7 @@
         "PRICE":2.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":464400,
@@ -2382,7 +3273,7 @@
         "PRICE":0,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":464380,
@@ -2391,7 +3282,7 @@
         "PRICE":4.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":464360,
@@ -2400,7 +3291,7 @@
         "PRICE":0,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":464350,
@@ -2409,7 +3300,7 @@
         "PRICE":19.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":464340,
@@ -2418,7 +3309,7 @@
         "PRICE":14.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":464260,
@@ -2427,7 +3318,7 @@
         "PRICE":19.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":464240,
@@ -2436,7 +3327,7 @@
         "PRICE":0,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":464230,
@@ -2445,7 +3336,7 @@
         "PRICE":0.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":464170,
@@ -2454,7 +3345,7 @@
         "PRICE":19.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":464150,
@@ -2463,7 +3354,7 @@
         "PRICE":19.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":464120,
@@ -2472,7 +3363,7 @@
         "PRICE":1.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":464110,
@@ -2481,7 +3372,7 @@
         "PRICE":3.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":464100,
@@ -2490,7 +3381,7 @@
         "PRICE":14.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":464080,
@@ -2499,7 +3390,7 @@
         "PRICE":2.99,
         "HAS DISCOUNT":true,
         "DISCOUNT":"WEEK LONG DEAL! Offer ends 28 September",
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":464070,
@@ -2508,7 +3399,7 @@
         "PRICE":0,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":464060,
@@ -2517,7 +3408,7 @@
         "PRICE":19.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":464050,
@@ -2526,7 +3417,7 @@
         "PRICE":"Free",
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":464040,
@@ -2535,7 +3426,7 @@
         "PRICE":1.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":464020,
@@ -2544,7 +3435,7 @@
         "PRICE":0,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":464000,
@@ -2553,7 +3444,7 @@
         "PRICE":0,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":462000,
@@ -2562,7 +3453,7 @@
         "PRICE":8.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":461990,
@@ -2571,7 +3462,7 @@
         "PRICE":24.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":461970,
@@ -2580,7 +3471,7 @@
         "PRICE":"Free",
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":461950,
@@ -2589,7 +3480,7 @@
         "PRICE":14.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":461940,
@@ -2598,7 +3489,7 @@
         "PRICE":6.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":461910,
@@ -2607,7 +3498,7 @@
         "PRICE":0,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":461890,
@@ -2616,7 +3507,7 @@
         "PRICE":0,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":461880,
@@ -2625,7 +3516,7 @@
         "PRICE":2.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":461870,
@@ -2634,7 +3525,7 @@
         "PRICE":"",
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":461860,
@@ -2643,7 +3534,7 @@
         "PRICE":9.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":461850,
@@ -2652,7 +3543,7 @@
         "PRICE":0,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":461840,
@@ -2661,7 +3552,7 @@
         "PRICE":1.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":461830,
@@ -2670,7 +3561,7 @@
         "PRICE":2.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":461820,
@@ -2679,7 +3570,7 @@
         "PRICE":"Free",
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":461810,
@@ -2688,7 +3579,7 @@
         "PRICE":16.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":602000,
@@ -2697,7 +3588,7 @@
         "PRICE":0,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":601990,
@@ -2706,7 +3597,7 @@
         "PRICE":"Free To Play",
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":601940,
@@ -2715,7 +3606,7 @@
         "PRICE":4.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":601930,
@@ -2724,7 +3615,7 @@
         "PRICE":1.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":601920,
@@ -2733,7 +3624,7 @@
         "PRICE":2.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":601890,
@@ -2742,7 +3633,7 @@
         "PRICE":7.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":601880,
@@ -2751,7 +3642,7 @@
         "PRICE":0.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":601870,
@@ -2760,7 +3651,7 @@
         "PRICE":2.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":601840,
@@ -2769,7 +3660,7 @@
         "PRICE":5.99,
         "HAS DISCOUNT":true,
         "DISCOUNT":"DAILY DEAL! Offer ends 1 October",
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":601810,
@@ -2778,7 +3669,7 @@
         "PRICE":7.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":601790,
@@ -2787,7 +3678,7 @@
         "PRICE":9.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":601780,
@@ -2796,7 +3687,7 @@
         "PRICE":3.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":601770,
@@ -2805,7 +3696,7 @@
         "PRICE":0,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":601760,
@@ -2814,7 +3705,7 @@
         "PRICE":1.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":601750,
@@ -2823,7 +3714,7 @@
         "PRICE":15.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":601700,
@@ -2832,7 +3723,7 @@
         "PRICE":9.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":601640,
@@ -2841,7 +3732,7 @@
         "PRICE":1.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":601620,
@@ -2850,7 +3741,7 @@
         "PRICE":24.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":601590,
@@ -2859,7 +3750,7 @@
         "PRICE":"",
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":601570,
@@ -2868,7 +3759,7 @@
         "PRICE":6.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":601550,
@@ -2877,7 +3768,7 @@
         "PRICE":4.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":601540,
@@ -2886,7 +3777,7 @@
         "PRICE":14.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":601530,
@@ -2895,7 +3786,7 @@
         "PRICE":9.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":601520,
@@ -2904,7 +3795,7 @@
         "PRICE":1.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":601510,
@@ -2913,7 +3804,7 @@
         "PRICE":"Free To Play",
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":601500,
@@ -2922,7 +3813,7 @@
         "PRICE":14.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":601490,
@@ -2931,7 +3822,7 @@
         "PRICE":7.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":601430,
@@ -2940,7 +3831,7 @@
         "PRICE":39.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":601420,
@@ -2949,7 +3840,7 @@
         "PRICE":0,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":601400,
@@ -2958,7 +3849,7 @@
         "PRICE":0,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":601380,
@@ -2967,7 +3858,7 @@
         "PRICE":8.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":601330,
@@ -2976,7 +3867,7 @@
         "PRICE":14.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":609940,
@@ -2985,7 +3876,7 @@
         "PRICE":"Free To Play",
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":609920,
@@ -2994,7 +3885,7 @@
         "PRICE":3.99,
         "HAS DISCOUNT":true,
         "DISCOUNT":"SPECIAL PROMOTION! Offer ends 28 September",
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":609850,
@@ -3003,7 +3894,7 @@
         "PRICE":14.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":609760,
@@ -3012,7 +3903,7 @@
         "PRICE":5.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":609720,
@@ -3021,7 +3912,7 @@
         "PRICE":10.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":609490,
@@ -3030,7 +3921,7 @@
         "PRICE":9.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":609420,
@@ -3039,7 +3930,7 @@
         "PRICE":14.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":609410,
@@ -3048,7 +3939,7 @@
         "PRICE":2.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":609400,
@@ -3057,7 +3948,7 @@
         "PRICE":9.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":609360,
@@ -3066,7 +3957,7 @@
         "PRICE":"Free To Play",
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":609340,
@@ -3075,7 +3966,7 @@
         "PRICE":19.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":609320,
@@ -3084,7 +3975,7 @@
         "PRICE":14.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":609170,
@@ -3093,7 +3984,7 @@
         "PRICE":19.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":609150,
@@ -3102,7 +3993,7 @@
         "PRICE":0,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":609110,
@@ -3111,7 +4002,7 @@
         "PRICE":16.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     },
     {
         "STEAM ID":609100,
@@ -3120,6 +4011,6 @@
         "PRICE":7.99,
         "HAS DISCOUNT":false,
         "DISCOUNT":null,
-        "TODAY DATE":1790035200000
+        "TODAY DATE":"2026-09-22T00:00:00.000"
     }
 ]

@@ -3,9 +3,9 @@
         "STEAM ID":10,
         "NAME":"Counter-Strike",
         "REQUIRED AGE":0,
-        "PRICE":9.99,
-        "HAS DISCOUNT":false,
-        "DISCOUNT":null,
-        "TODAY DATE":"2026-09-24"
+        "PRICE":1.99,
+        "HAS DISCOUNT":true,
+        "DISCOUNT":"SPECIAL PROMOTION! Offer ends 8 October",
+        "TODAY DATE":"2026-10-05"
     }
 ]
